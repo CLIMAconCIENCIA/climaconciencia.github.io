@@ -16,14 +16,14 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-GB"
-title                    : "Dafydd Gwyn Evans"
+title                    : "CLIMA con CIENCIA"
 title_separator          : "-"
-name                     : "Dafydd Gwyn Evans"
-description              : "Website of the Physical Oceanographer Dafydd Gwyn Evans."
+name                     : "CLIMA con CIENCIA"
+description              : "Página de divulgación científica en ciencias del clima"
 url                      : "https://climaconciencia.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "CLIMAconCIENCIA/climaconciencia.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
-teaser                   : "/assets/images/rvws_sunset.jpg" # path of fallback teaser image, e.g. "/assets/images/500x300.png"
+teaser                   : "/assets/images/zoom-nasa-ocean-7009099115-2bfa1e20ba-o.jpg" # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
 comments:
@@ -81,19 +81,19 @@ naver_site_verification  :
 
 # Social Sharing
 twitter:
-  username               : "d_gwynevans"
+  username               : "CLIMAconCIENCIA"
 facebook:
   username               :
   app_id                 :
   publisher              :
-og_image                 : /assets/images/jcr_ice_sm.png # Open Graph/Twitter default site image
+og_image                 : /assets/images/sistema_climatico.jpg # Open Graph/Twitter default site image
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
   type                   : # Person or Organization (defaults to Person)
   name                   : # If the user or organization name differs from the site's name
   links: # An array of links to social media profiles
-    - "https://twitter.com/D_GwynEvans" 
+    - "https://twitter.com/CLIMAconCIENCIA" 
 
 # Analytics
 analytics:
@@ -105,58 +105,36 @@ analytics:
 
 # Site Author
 author:
-  name             : 
+  name             : "CLIMAconCIENCIA"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Physical Oceanographer"
-  location         : "Southampton, UK"
+  bio              : 
+  location         : "Madrid, España"
   email            :
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: mailto:dafydd.evans@noc.soton.ac.uk
+      url: mailto:climaconciencia@gmail.com
   #  - label: "Website"
   #    icon: "fas fa-fw fa-link"
   #    url: "dgwynevans.com"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/d_gwynevans"
-    - label: "Facebook"
-      icon: "fab fa-fw fa-facebook-square"
+      url: "https://twitter.com/CLIMAconCIENCIA"
       # url: "https://facebook.com/"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/dgwynevans"
-    - label: "Google Scholar"
-      icon: "fab fa-fw fa-google"
-      url: "https://scholar.google.co.uk/citations?user=DrsASDsAAAAJ&hl=en"
-    - label: "ResearchGate"
-      icon: "fab fa-fw fa-researchgate"
-      url: "https://www.researchgate.net/profile/D_Evans3"
       
 # Site Footer
 footer:
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: mailto:dafydd.evans@noc.soton.ac.uk
+      url: mailto:climaconciencia@gmail.com
   #  - label: "Website"
   #    icon: "fas fa-fw fa-link"
   #    url: "dgwynevans.com"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/d_gwynevans"
-    - label: "Facebook"
-      icon: "fab fa-fw fa-facebook-square"
+      url: "https://twitter.com/CLIMAconCIENCIA"
       # url: "https://facebook.com/"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/dgwynevans"
-    - label: "Google Scholar"
-      icon: "fab fa-fw fa-google"
-      url: "https://scholar.google.co.uk/citations?user=DrsASDsAAAAJ&hl=en"
-    - label: "ResearchGate"
-      icon: "fab fa-fw fa-researchgate"
-      url: "https://www.researchgate.net/profile/D_Evans3"
 
 
 # Reading Files
