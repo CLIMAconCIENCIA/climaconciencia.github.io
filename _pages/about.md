@@ -1,8 +1,8 @@
 ---
 permalink: /about/
 layout: archive
-title: "About Me"
-excerpt: "Some information about the Dafydd Gwyn Evans."
+title: "ASobre nosotros"
+excerpt: "Información sobre el equipo de CLIMAconCIENCIA"
 gallery:
   - url: /assets/images/IMG_1616_uncrop.jpg
     image_path: /assets/images/IMG_1616_uncrop.jpg
@@ -20,9 +20,7 @@ author_profile: true
 classes: wide  
 ---
 
-I am a post-doc in physical oceanography at the University 
-of Southampton, based at the National Oceanography Centre, Southampton. 
-I am interested in the dynamics of the ocean on a range of spatial and temporal scales.
+Somos un colectivo de científicos 
 
 {% include figure image_path="/assets/images/2016-10-17 18.02.07.jpg" alt="morocco" %}
 
