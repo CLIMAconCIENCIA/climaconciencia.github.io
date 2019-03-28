@@ -3,9 +3,9 @@ layout: splash
 permalink: /
 header:
   overlay_color: "#5e616c"
-  overlay_image: /assets/images/jcr-ice.jpg
+  overlay_image: /assets/images/Nasa.jpg
 excerpt: >
-  Physical Oceanographer<br />
+  CLIMA con CIENCIA<br />
   <br />
   <br />
   <br />
