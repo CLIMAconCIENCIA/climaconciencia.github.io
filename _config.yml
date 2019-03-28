@@ -19,11 +19,11 @@ locale                   : "en-GB"
 title                    : "CLIMA con CIENCIA"
 title_separator          : "-"
 name                     : "CLIMA con CIENCIA"
-description              : "Página de divulgación científica en ciencias del clima"
+description              : "Pagina de divulgacion cientifica en ciencias del clima"
 url                      : "https://climaconciencia.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "CLIMAconCIENCIA/climaconciencia.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
-teaser                   : "/assets/images/zoom-nasa-ocean-7009099115-2bfa1e20ba-o.jpg" # path of fallback teaser image, e.g. "/assets/images/500x300.png"
+teaser                   : "/assets/images/Nasa.jpg" # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
 comments:
