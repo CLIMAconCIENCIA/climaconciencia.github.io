@@ -1,7 +1,7 @@
 ---
 permalink: /about/
 layout: archive
-title: "ASobre nosotros"
+title: "Sobre nosotros"
 excerpt: "Información sobre el equipo de CLIMAconCIENCIA"
 gallery:
   - url: /assets/images/IMG_1616_uncrop.jpg
@@ -20,11 +20,11 @@ author_profile: true
 classes: wide  
 ---
 
-Somos un colectivo de científicos 
+Somos un colectivo de científicos en el campo de ciencias climáticas. 
 
-{% include figure image_path="/assets/images/2016-10-17 18.02.07.jpg" alt="morocco" %}
+{% include figure image_path="/assets/images/sistema_climatico.jpg" alt="sist_clim" %}
 
-{% include gallery %}
+#{% include gallery %}
 
 I am currently involved with the MerMEED 
 (MEchanisms Responsible for Mesoscale Eddy Energy Dissipation) project. We are investigating 
