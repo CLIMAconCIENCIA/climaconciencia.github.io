@@ -21,10 +21,10 @@ feature_row:
     url: "https://doi.org/10.1029/2018GL079986"
     btn_class: "btn--primary"
     btn_label: "Learn more"
-  - image_path: /assets/images/IMG_1616.jpg
+  - image_path: /assets/images/images.jpg
     alt: "about"
     title: "About"
-    excerpt: "Learn more about me and my work as a physical oceanographer"
+    excerpt: "Mas información sobre nuestros científicos"
     url: "/about/"
     btn_class: "btn--primary"
     btn_label: "Learn more"  
