@@ -18,16 +18,9 @@ feature_row:
     alt: "latest"
     title: "El sistema climático"
     excerpt: "Descripción del sistema climático"
-    url: "https://doi.org/10.1029/2018GL079986"
+    url: "/research/"
     btn_class: "btn--primary"
-    btn_label: "Learn more"
-  - image_path: /assets/images/images.jpg
-    alt: "about"
-    title: "About"
-    excerpt: "Mas información sobre nuestros científicos"
-    url: "/about/"
-    btn_class: "btn--primary"
-    btn_label: "Learn more"  
+    btn_label: "Aprende mas"
   - image_path: /assets/images/rutgersrobo.png
     alt: "blog"
     title: "Blog"
@@ -35,6 +28,13 @@ feature_row:
     url: "/blog/"
     btn_class: "btn--primary"
     btn_label: "Blogs"
+  - image_path: /assets/images/images.jpg
+    alt: "about"
+    title: "About"
+    excerpt: "Mas información sobre nuestros científicos"
+    url: "/about/"
+    btn_class: "btn--primary"
+    btn_label: "Learn more"  
     
 ---
 
