@@ -10,7 +10,7 @@ gallery1:
     image_path: /assets/images/Victor.jpg
     alt: "Victor"
     title: "Victor Estella Perez"
-    width: 70%
+    width: 20%
   
 ---
 
