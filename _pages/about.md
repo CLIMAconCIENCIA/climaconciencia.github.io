@@ -19,5 +19,9 @@ Somos un colectivo de científicos en el campo de ciencias climáticas.
 
 
 <h2>Victor Estella Perez</h2>
-{% include gallery id="gallery1" size="thumbnail" %}
+
+<img src="/assets/images/Victor.jpg"
+     alt="Victor Estella Perez"
+     style="float: left; margin-right: 10px;" />
+{% include gallery id="gallery1" size="200" %}
 Me llamo Victor Estella Perez, soy doctor en Ciencias del mar y de la tierra. 
