@@ -1,6 +1,6 @@
 ---
 permalink: /research/
-layout: blog
+layout: archive
 title: "El sistema climático"
 excerpt: "El sistema climático"
 author_profile: true 
