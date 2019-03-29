@@ -34,7 +34,7 @@ feature_row:
     excerpt: "Mas información sobre nuestros científicos"
     url: "/about/"
     btn_class: "btn--primary"
-    btn_label: "Learn more"  
+    btn_label: "Conécenos"  
     
 ---
 
