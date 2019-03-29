@@ -1,8 +1,8 @@
 ---
 permalink: /research/
 layout: archive
-title: "Research"
-excerpt: "Dafydd Gwyn Evans' research"
+title: "El sistema climático"
+excerpt: "El sistema climático"
 author_profile: true 
 classes: wide  
 ---
