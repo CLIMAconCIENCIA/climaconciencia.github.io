@@ -3,6 +3,8 @@ permalink: /about/
 layout: archive
 title: "Sobre nosotros"
 excerpt: "Información sobre el equipo de CLIMAconCIENCIA"
+author_profile: true 
+classes: wide
 gallery:
   - url: /assets/images/IMG_1616_uncrop.jpg
     image_path: /assets/images/IMG_1616_uncrop.jpg
@@ -16,8 +18,7 @@ gallery:
     image_path: /assets/images/20171101_153950.jpg
     alt: "gliders"
     title: "MerMEED gliders"
-author_profile: true 
-classes: wide  
+  
 ---
 
 Somos un colectivo de científicos en el campo de ciencias climáticas. 
