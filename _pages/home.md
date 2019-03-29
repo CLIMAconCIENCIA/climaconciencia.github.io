@@ -13,10 +13,6 @@ excerpt: >
   <br />
   <br />
   <br />
-  Somos un colectivo de científicos españoles que investigan en el ámbito de ciencias climáticas
-  
-  
-  
 feature_row:
   - image_path: /assets/images/sistema_climatico.jpg
     alt: "about"
@@ -35,6 +31,9 @@ feature_row:
 
     
 ---
+Somos un colectivo de científicos españoles ...
+
+
 
 {% include feature_row %}
 
