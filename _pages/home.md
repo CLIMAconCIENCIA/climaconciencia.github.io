@@ -16,7 +16,7 @@ excerpt: >
 feature_row:
   - image_path: /assets/images/sistema_climatico.jpg
     alt: "about"
-    title: "About"
+    title: "Sobre Nosotros"
     excerpt: "Aprende mas sobre los componentes del equipo de CLIMAconCIENCIA"
     url: "/about/"
     btn_class: "btn--primary"
@@ -28,6 +28,8 @@ feature_row:
     url: "/blog/"
     btn_class: "btn--primary"
     btn_label: "Learn more" 
+    
+    
 ---
 
 
