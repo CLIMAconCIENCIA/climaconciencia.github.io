@@ -22,7 +22,7 @@ feature_row:
     btn_class: "btn--primary"
     btn_label: "Learn more"  
  - image_path: /assets/images/cdw_upwell_schem.png
-    alt: "latest"
+    alt: "blog"
     title: "Blog"
     excerpt: "Blog de artículos publicados"
     url: "/blog/"
