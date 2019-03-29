@@ -23,3 +23,4 @@ ejemplo para inclui un video
 Ejemplo incluir imagen
 {% include figure image_path="/assets/images/Nasa.png" alt="eifls" caption="Ejemplo de caption" %}
 
+Ejemplos de links Along the way I have generalised a method to [estimate turbulence from Seaglider flight](https://doi.org/10.1029/2018GL079966)
