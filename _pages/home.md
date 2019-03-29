@@ -3,9 +3,9 @@ layout: splash
 permalink: /
 header:
   overlay_color: "#5e616c"
-  overlay_image: /assets/images/jcr-ice.jpg
+  overlay_image: /assets/images/Nasa.png
 excerpt: >
-  Physical Oceanographer<br />
+  Clima con Ciencia<br />
   <br />
   <br />
   <br />
@@ -14,7 +14,7 @@ excerpt: >
   <br />
   <br />
 feature_row:
-  - image_path: /assets/images/cdw_upwell_schem.png
+  - image_path: /assets/images/sistema_climatico.jpg
     alt: "latest"
     title: "Recent Work"
     excerpt: "Check out my most recent paper: The *Cold Transit* of Southern Ocean Upwelling."
@@ -28,13 +28,13 @@ feature_row:
     url: "/about/"
     btn_class: "btn--primary"
     btn_label: "Learn more"  
-  - image_path: /assets/images/2016-11-29 16.13.10.jpg
+  - image_path: /assets/images/rutgersrobo.png
     alt: "blog"
-    title: "Eddy Hunting"
-    excerpt: "Read a blog post I wrote for the Challenger society about eddy hunting in the Bahamas."
-    url: "https://challengercaptainsblog.wordpress.com/2017/01/29/mermeed-eddy-hunting-dafydd-gwyn-evans/"
+    title: "Blog"
+    excerpt: "Blog posts de actualidad en la ciencia de clima"
+    url: "/blog/"
     btn_class: "btn--primary"
-    btn_label: "Learn more"
+    btn_label: "Blogs"
     
 ---
 
