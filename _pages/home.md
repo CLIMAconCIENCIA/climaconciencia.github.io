@@ -16,8 +16,8 @@ excerpt: >
 feature_row:
   - image_path: /assets/images/sistema_climatico.jpg
     alt: "latest"
-    title: "Recent Work"
-    excerpt: "Check out my most recent paper: The *Cold Transit* of Southern Ocean Upwelling."
+    title: "El sistema climático"
+    excerpt: "."
     url: "https://doi.org/10.1029/2018GL079986"
     btn_class: "btn--primary"
     btn_label: "Learn more"
