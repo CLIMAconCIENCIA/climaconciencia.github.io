@@ -13,14 +13,11 @@ excerpt: >
   <br />
   <br />
   <br />
+  Somos un colectivo de científicos españoles que investigan en el ámbito de ciencias climáticas
+  
+  
+  
 feature_row:
-  - image_path: /assets/images/cdw_upwell_schem.png
-    alt: "latest"
-    title: "Blog"
-    excerpt: "Blog de artículos publicados"
-    url: "/blog/"
-    btn_class: "btn--primary"
-    btn_label: "Learn more"
   - image_path: /assets/images/sistema_climatico.jpg
     alt: "about"
     title: "About"
@@ -28,6 +25,13 @@ feature_row:
     url: "/about/"
     btn_class: "btn--primary"
     btn_label: "Learn more"  
+ - image_path: /assets/images/cdw_upwell_schem.png
+    alt: "latest"
+    title: "Blog"
+    excerpt: "Blog de artículos publicados"
+    url: "/blog/"
+    btn_class: "btn--primary"
+    btn_label: "Learn more"
 
     
 ---
