@@ -17,7 +17,7 @@ feature_row:
   - image_path: /assets/images/sistema_climatico.jpg
     alt: "latest"
     title: "El sistema climático"
-    excerpt: "."
+    excerpt: "Descripción del sistema climático"
     url: "https://doi.org/10.1029/2018GL079986"
     btn_class: "btn--primary"
     btn_label: "Learn more"
