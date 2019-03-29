@@ -27,12 +27,8 @@ feature_row:
     excerpt: "Blog de artículos publicados"
     url: "/blog/"
     btn_class: "btn--primary"
-    btn_label: "Learn more"
-
-    
+    btn_label: "Learn more" 
 ---
-Somos un colectivo de científicos españoles ...
-
 
 
 {% include feature_row %}
