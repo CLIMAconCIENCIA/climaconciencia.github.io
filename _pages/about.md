@@ -25,4 +25,4 @@ Somos un colectivo de científicos en el campo de ciencias climáticas.
      width="400"
      style="float: left; margin-right: 10px;" />
 
-Me llamo Victor Estella Perez, soy doctor en Ciencias del mar y de la tierra. 
+Me llamo Victor Estella Perez, soy doctor en Ciencias del mar y de la tierra por la Universidad de Southampton (Reino Unido). Actualmente estoy trabajando com investigador post-doctoral en el laboratorio [LOCEAN](https://www.locean-ipsl.upmc.fr/). Mis intereses académicos oscilan entre la matemática aplicada en ciencias del clima (sistemas dinámicos, estadística aplicada) a variabilidad climática con especial atención al clima del Atlántico Norte.  
