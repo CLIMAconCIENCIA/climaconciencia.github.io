@@ -10,6 +10,7 @@ gallery1:
     image_path: /assets/images/Victor.jpg
     alt: "Victor"
     title: "Victor Estella Perez"
+    width: 70%
   
 ---
 
@@ -19,5 +20,5 @@ Somos un colectivo de científicos en el campo de ciencias climáticas.
 
 
 <h2>Victor Estella Perez</h2>
-{% include gallery id="gallery1" width="40%"%}
+{% include gallery id="gallery1" %}
 Me llamo Victor Estella Perez, soy doctor en Ciencias del mar y de la tierra. 
