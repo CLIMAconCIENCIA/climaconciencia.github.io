@@ -10,7 +10,7 @@ feature_row:
     alt: "latest"
     title: "Entrada1"
     excerpt: "entrada1"
-    url: "/_posts/2019-03-26-test_post1.md"
+    url: "/_posts/2019-03-26-test_post1"
     btn_class: "btn--primary"
     btn_label: "Entrada1"
 ---
