@@ -46,10 +46,6 @@ Presentamos ahora los diferentes aspectos del sistema climático que puede alter
 {% include feature_row %}
 
 
-
-
-{% include feature_row2 %}
-
 ejemplo para inclui un video
 {% include video id="Z-FbRAEvjbQ" provider="youtube" %}
 
