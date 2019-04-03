@@ -2,7 +2,7 @@
 permalink: /_posts/Atmosfera
 layout: archive
 title: "Atmósfera"
-excerpt: "Atmósfera"
+excerpt: "Atmosfera"
 author_profile: true 
 classes: wide
 
