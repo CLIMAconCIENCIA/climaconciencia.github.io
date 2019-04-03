@@ -1,5 +1,5 @@
 ---
-permalink: /_SistClim/Atmosfera
+permalink: /_posts/_SistClim/Atmosfera
 layout: archive
 title: "Atmósfera"
 excerpt: "Atmósfera"
