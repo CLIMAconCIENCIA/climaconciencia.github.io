@@ -18,7 +18,7 @@ Somos un colectivo de científicos en el campo de ciencias climáticas.
 
 
 
-<h2>Victor Estella Perez</h2>
+<h2>Victor Estella Perez</h2> [@victorquik](https://twitter.com/victorquik)
 
 <img src="/assets/images/Victor.jpg"
      alt="Victor Estella Perez"
