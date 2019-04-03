@@ -27,7 +27,21 @@ feature_row:
     url: "/_SistClim/Criosfera"
     btn_class: "btn--primary"
     btn_label: "Criosfera"
-    
+ feature_row2:
+  - image_path: /assets/images/sistema_climatico.jpg
+    alt: "Tierra"
+    title: "Superficie terrestre"
+    excerpt: "Superficie terrestre"
+    url: "/_SistClim/Tierra"
+    btn_class: "btn--primary"
+    btn_label: "Superficie terrestre"
+  - image_path: /assets/images/sistema_climatico.jpg
+    alt: "Biosfera"
+    title: "Biosfera"
+    excerpt: "Biosfera"
+    url: "/_SistClim/Biosfera"
+    btn_class: "btn--primary"
+    btn_label: "Biosfera"    
 ---
 
 
@@ -45,6 +59,7 @@ Presentamos ahora los diferentes aspectos del sistema climático que puede alter
 
 {% include feature_row %}
 
+{% include feature_row2 %}
 
 ejemplo para inclui un video
 {% include video id="Z-FbRAEvjbQ" provider="youtube" %}
