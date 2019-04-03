@@ -10,14 +10,14 @@ feature_row:
     alt: "Oceano"
     title: "Océano"
     excerpt: "Océano"
-    url: "/_SistClim/Oceano"
+    url: "/_posts/2019-03-26-test_post1"
     btn_class: "btn--primary"
     btn_label: "Océano"
   - image_path: /assets/images/sistema_climatico.jpg
     alt: "Atmosfera"
     title: "Atmósfera"
     excerpt: "Atmósfera"
-    url: "/_SistClim/Atmosfera"
+    url: "/_posts/_SistClim/Atmosfera"
     btn_class: "btn--primary"
     btn_label: "Atmósfera"    
   - image_path: /assets/images/sistema_climatico.jpg
