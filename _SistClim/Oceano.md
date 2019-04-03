@@ -1,12 +1,12 @@
 ---
 permalink: /_SistClim/Oceano
 layout: archive
-title: "Oceano"
-excerpt: "Oceano"
+title: "Océano"
+excerpt: "Océano"
 author_profile: true 
 classes: wide
 
 ---
-<Oceano>
+<Océano>
 
 This is a test of the post
