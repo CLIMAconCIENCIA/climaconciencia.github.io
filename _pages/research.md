@@ -15,7 +15,7 @@ feature_row:
     btn_class: "btn--primary"
     btn_label: "Océano"
 
- - image_path: /assets/images/sistema_climatico.jpg
+  - image_path: /assets/images/sistema_climatico.jpg
     alt: "Atmosfera"
     title: "Atmósfera"
     excerpt: "Atmósfera"
@@ -56,7 +56,10 @@ feature_row:
 
 <h2>El sistema climático</h2>
 
-{% include figure image_path="/assets/images/sistema_climatico.jpg" alt="sist_clim"  width="400" %}
+<img src="/assets/images/sistema_climatico.jpg" 
+     alt="sist_clim"  
+     width="400"
+     style="float: left; margin-right: 10px;" />
 
 El sistema climático está compuesto por la atmósfera, criosfera, superficie terrestr y biosfera. Esta regulado principalmente por el equilibrio entre la energía recibida por el sol y la pérdida de dicha energía al espacio. Los diferentes componentes intercambian energía que regula el balance energético del sistema climático. Estas componentes interactuan no solo intercambiando energía, sino también materia (el hielo se derrite y mezcla con el agua del mar, ..). Por lo tanto, cualquier variación de los componentes puede contribuir a un cambio del clima global. 
 
