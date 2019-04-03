@@ -27,7 +27,6 @@ feature_row:
     url: "/_SistClim/Criosfera"
     btn_class: "btn--primary"
     btn_label: "Criosfera"
- feature_row2:
   - image_path: /assets/images/sistema_climatico.jpg
     alt: "Tierra"
     title: "Superficie terrestre"
