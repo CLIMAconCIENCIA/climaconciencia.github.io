@@ -46,7 +46,7 @@ Hola! Somos un colectivo de científicos en el campo de las ciencias climáticas
 Nuestro objetivo es dar a conocer información objetiva y científica lo que conocemos sobre el sistema climático. Para que desdes un conocimiento objetivo cada uno pueda crear las ideas y responder a dudas de su entorno sobre el cambio climático. 
 
 
-Si tienes alguna duda que nos quieras transmitir no dudes en contactarnos! Nuestro e-mail es [mailto](mailto:climaconciencia@gmail.com)
+Si tienes alguna duda que nos quieras transmitir no dudes en contactarnos! Nuestro e-mail es [climaconciencia@gmail.com](mailto:climaconciencia@gmail.com)
 
 También nos puedes seguir en Twitter [aqui](https://twitter.com/CLIMAconCIENCIA)
 
