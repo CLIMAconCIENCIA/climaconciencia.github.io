@@ -32,25 +32,6 @@ feature_row:
     btn_class: "btn--primary"
     btn_label: "Criosfera"
     
-    
-    
- feature_row2:
-  - image_path: /assets/images/sistema_climatico.jpg
-    alt: "Tierra"
-    title: "Superficie Terrestre"
-    excerpt: "Superficie Terrestre"
-    url: "/_SistClim/Tierra"
-    btn_class: "btn--primary"
-    btn_label: "Superficie Terrestre"
-    
-  - image_path: /assets/images/sistema_climatico.jpg
-    alt: "Biosfera"
-    title: "Biosfera"
-    excerpt: "Biosfera"
-    url: "/_SistClim/Biosfera"
-    btn_class: "btn--primary"
-    btn_label: "Biosfera"
-
 ---
 
 
