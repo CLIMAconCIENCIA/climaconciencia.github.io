@@ -5,7 +5,6 @@ title: "El sistema climático"
 excerpt: "El sistema climático"
 author_profile: true 
 classes: wide  
-
 feature_row:
   - image_path: /assets/images/sistema_climatico.jpg
     alt: "Oceano"
