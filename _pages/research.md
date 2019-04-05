@@ -10,7 +10,7 @@ feature_row:
     alt: "Oceano"
     title: "Océano"
     excerpt: "Océano"
-    url: "/_posts/2019-03-26-test_post1"
+    url: "/_posts/2019-04-05-oceano"
     btn_class: "btn--primary"
     btn_label: "Océano"
   - image_path: /assets/images/sistema_climatico.jpg
@@ -24,21 +24,21 @@ feature_row:
     alt: "Criosfera"
     title: "Criosfera"
     excerpt: "Criosfera"
-    url: "/_posts/2019-04-05-atmosfera"
+    url: "/_posts/2019-04-05-criosfera"
     btn_class: "btn--primary"
     btn_label: "Criosfera"
   - image_path: /assets/images/sistema_climatico.jpg
     alt: "Tierra"
     title: "Superficie terrestre"
     excerpt: "Superficie terrestre"
-    url: "/_SistClim/Tierra"
+    url: "/_posts/2019-04-05-superterrest"
     btn_class: "btn--primary"
     btn_label: "Superficie terrestre"
   - image_path: /assets/images/sistema_climatico.jpg
     alt: "Biosfera"
     title: "Biosfera"
     excerpt: "Biosfera"
-    url: "/_SistClim/Biosfera"
+    url: "/_posts/2019-04-05-biosfera"
     btn_class: "btn--primary"
     btn_label: "Biosfera"    
 ---
