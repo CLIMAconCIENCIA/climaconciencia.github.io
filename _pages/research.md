@@ -17,7 +17,7 @@ feature_row:
     alt: "Atmosfera"
     title: "Atmósfera"
     excerpt: "Atmósfera"
-    url: "/_posts/Atmosfera"
+    url: "/_posts/atmosfera"
     btn_class: "btn--primary"
     btn_label: "Atmósfera"    
   - image_path: /assets/images/sistema_climatico.jpg
