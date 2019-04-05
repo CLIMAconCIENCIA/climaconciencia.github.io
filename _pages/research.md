@@ -24,7 +24,7 @@ feature_row:
     alt: "Criosfera"
     title: "Criosfera"
     excerpt: "Criosfera"
-    url: "/_SistClim/Criosfera"
+    url: "/_posts/2019-04-05-atmosfera"
     btn_class: "btn--primary"
     btn_label: "Criosfera"
   - image_path: /assets/images/sistema_climatico.jpg
