@@ -1,5 +1,5 @@
 ---
-permalink: /_posts/atmosfera
+permalink: /_posts/2019-04-05-atmosfera
 layout: archive
 title: "Atmósfera"
 excerpt: "atmosfera"
