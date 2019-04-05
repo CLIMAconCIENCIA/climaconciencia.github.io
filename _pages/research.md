@@ -17,7 +17,7 @@ feature_row:
     alt: "Atmosfera"
     title: "Atmósfera"
     excerpt: "Atmósfera"
-    url: "/_posts/atmosfera"
+    url: "/_posts/2019-04-05-atmosfera"
     btn_class: "btn--primary"
     btn_label: "Atmósfera"    
   - image_path: /assets/images/sistema_climatico.jpg
