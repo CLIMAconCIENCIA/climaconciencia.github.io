@@ -1,8 +1,8 @@
 ---
-permalink: /_posts/Atmosfera
+permalink: /_posts/atmosfera
 layout: archive
 title: "Atmósfera"
-excerpt: "Atmosfera"
+excerpt: "atmosfera"
 author_profile: true 
 classes: wide
 
