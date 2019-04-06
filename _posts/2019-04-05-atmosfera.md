@@ -25,8 +25,11 @@ Como consecuencia de la rotación, cualquier trayectoria descrita en la Tierra e
 
 La circulación atmosférica zonal ecuatorial también es fuerte y altamente relevante y se conoce como la circulación de Walker. Esta circulación comprende seis celdas, con ramas de aire húmedo ascendente sobre África oriental, el Pacífico tropical occidental y el norte de América del Sur, así como hundimiento del aire seco sobre el Océano Índico occidental y el Pacífico tropical oriental y el Atlántico (Lau et al. 2003). La mayor y más persistente circulación de Walker se desarrolla en el amplio Pacífico ecuatorial. En la celda de Walker del pacífico, los vientos alisios obligan a las aguas superficiales a desplazarse hacia el lado oeste de la cuenca, donde la radiación solar las calienta fuertemente, mientras que las aguas profundas más frías se elevan cerca de la costa sudamericana. Esta distribución de agua induce una presión superficial baja sobre la parte oeste más cálida del Pacífico ecuatorial y alta al este. Como consecuencia, las masas de aire cálido y húmedo se elevan sobre el Continente Marítimo formando nubes y produciendo fuertes lluvias sobre el sudeste asiático. En la troposfera superior, el aire seco se desvía y fluye hacia el este, hundiéndose a medida que se enfría en la cuenca ecuatorial oriental del Pacífico, cerca de la costa occidental de América del Sur. Finalmente, la rama de la superficie que cierra la celda de Walker del pacífico fluye hacia el oeste reforzando los vientos alisios.
 
-{% include figure image_path="/assets/images/research/FIG5-Walker.png" alt="Desde Lau et al. 2003" caption=" Representación esquemática de la circulación ecuatorial vertical y longitudinal, particularmente conocida como la Circulación de Walker." %}
-
+<img src="/assets/images/research/FIG5-Walker.png"
+     alt="alker"
+     width="400"
+     description=" Representación esquemática de la circulación ecuatorial vertical y longitudinal, particularmente conocida como la Circulación de Walker.Desde Lau et al. 2003"
+     style="float: left; margin-right: 10px;" />
 
 En latitudes más altas la circulación es más compleja. Termodinámicamente, solo se esperarían dos células tipo Hadley, con circulación meridional desde el ecuador hasta ambos polos. Sin embargo, debido a la desviación de los vientos causada por el efecto Coriolis, las células de circulación meridional se retuercen y se dividen en tres células en cada hemisferio.
 
