@@ -5,8 +5,10 @@
     {% else %}
       "{{ include.image_path | relative_url }}"
     {% endif %}
+    width="{% if include.width %}{{ include.width}}{% endif %}"
     alt="{% if include.alt %}{{ include.alt }}{% endif %}">
   {% if include.caption %}
     <figcaption>{{ include.caption | markdownify | remove: "<p>" | remove: "</p>" }}</figcaption>
   {% endif %}
+  
 </figure>
