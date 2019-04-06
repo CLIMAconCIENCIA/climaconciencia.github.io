@@ -14,7 +14,7 @@ La circulación general de la atmósfera es inducida por el efecto combinado de 
 
 <img src="/assets/images/research/FIG3-AtmCircul.png"
      alt="alker"
-     width="400"
+     width="600"
      description="Representación esquemática de las principales estructuras a gran escala de la circulación atmosférica. Tomado de Lutgens et al. 2001."
      style="float: left; margin-right: 10px;" />
 
@@ -25,7 +25,7 @@ Como consecuencia de la rotación, cualquier trayectoria descrita en la Tierra e
 
 <img src="/assets/images/research/FIG4-ITCZ-H-L.png"
      alt="alker"
-     width="400"
+     width="600"
      description=" Adaptado de geog.uoregon.edu" caption="Centros prevalentes de presión atmosférica baja (L) baja y alta (H), promediadas durante 1959-1997 en enero (a) y julio (b), con el nombre de Los más importantes. La línea roja representa la posición ITCZ."
      style="float: left; margin-right: 10px;" />
 
@@ -34,7 +34,7 @@ La circulación atmosférica zonal ecuatorial también es fuerte y altamente rel
 
 <img src="/assets/images/research/FIG5-Walker.png"
      alt="alker"
-     width="400"
+     width="600"
      description=" Representación esquemática de la circulación ecuatorial vertical y longitudinal, particularmente conocida como la Circulación de Walker.Desde Lau et al. 2003"
      style="float: left; margin-right: 10px;" />
 
