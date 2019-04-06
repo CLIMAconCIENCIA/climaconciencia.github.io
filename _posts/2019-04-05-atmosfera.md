@@ -13,7 +13,7 @@ classes: wide
 La circulación general de la atmósfera es inducida por el efecto combinado de la energía solar entrante y la rotación de la Tierra. La irradiación solar no se recibe uniformemente en toda la superficie de la Tierra. Es más intenso alrededor del ecuador y menos en los polos. La reacción de la atmósfera es distribuir esta energía produciendo una circulación de calor hacia el polo desde la banda tropical. Cerca del ecuador, el aire cerca de la superficie calentada se calienta y se eleva. Luego, fluye de manera meridional en la troposfera superior hacia latitudes más frías de ambos hemisferios y se hunde hasta los cinturones subtropicales de alta presión. El aire en la superficie fluye desde las latitudes subtropicales hacia el ecuador y converge cerca del ecuador que transporta aire más frío hacia las regiones cálidas. Estas células meridionales de circulación en ambos lados del ecuador se denominan células de Hadley (Hadley et al. 1735).
 
 
-{% include figure image_path="/assets/images/research/FIG3-AtmCircul.png" alt="eifls" caption=" Representación esquemática de las principales estructuras a gran escala de la circulación atmosférica. Tomado de Lutgens et al. 2001." %}
+{% include figure image_path="/assets/images/research/FIG3-AtmCircul.png" alt="eifls" caption=" Representación esquemática de las principales estructuras a gran escala de la circulación atmosférica. Tomado de Lutgens et al. 2001." width="400" %}
 
 
 
