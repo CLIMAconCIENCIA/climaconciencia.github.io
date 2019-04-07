@@ -27,7 +27,7 @@ feature_row:
     url: "/_posts/2019-04-05-criosfera"
     btn_class: "btn--primary"
     btn_label: "Criosfera"
-  id:"row1"
+  - id:"row1"
 
     
 ---
