@@ -76,12 +76,7 @@ En general, la cantidad de variabilidad en diferentes frecuencias se mide por la
 Reduciendo aún más el período que tenemos escalas de tiempo interanuales con El Niño / Oscilación del Sur (ENOS) como uno de los principales impulsores de estas escalas de tiempo. Si Reducimos las escalas a años y días (ambos picos afilados a la derecha de la figura). Las protuberancias más pequeñas a la derecha de la figura se asocian con la variabilidad de los sistemas climáticos en la variabilidad intraestacional entre 1 y 3 meses y rangos de 3 a 7 días. El componente dominante de las escalas de tiempo intraestacionales es la Oscilación Madden-Julian, un acoplamiento entre los patrones a gran escala en la circulación atmosférica y la convección profunda (Zhanget al. 2005). Se observa principalmente en el océano Índico y el Pacífico, y consiste en grandes regiones de lluvias tropicales mejoradas y suprimidas que se desplazan hacia el este.
 
 
-ejemplo para inclui un video
-{% include video id="Z-FbRAEvjbQ" provider="youtube" %}
 
-<h2>Measuring ocean turbulence</h2>
+<h2>¿Cómo estudiamos el clima?</h2>
 
-Ejemplo incluir imagen
-{% include figure image_path="/assets/images/Nasa.png" alt="eifls" caption="Ejemplo de caption" %}
-
-Ejemplos de links Along the way I have generalised a method to [estimate turbulence from Seaglider flight](https://doi.org/10.1029/2018GL079966)
+Para el estudio del clima nos basamos principalmente en dos tipos de información complementaria: las observaciones y los modelos. 
