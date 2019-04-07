@@ -28,6 +28,30 @@ feature_row:
     btn_class: "btn--primary"
     btn_label: "Criosfera"
   - id:"row1"
+  
+  feature_row:
+  - image_path: /assets/images/oceanografia.png
+    alt: "Oceano"
+    title: "Océano"
+    excerpt: "Océano"
+    url: "/_posts/2019-04-05-oceano"
+    btn_class: "btn--primary"
+    btn_label: "Océano"
+  - image_path: /assets/images/atmosfera.png
+    alt: "Atmosfera"
+    title: "Atmósfera"
+    excerpt: "Atmósfera"
+    url: "/_posts/2019-04-05-atmosfera"
+    btn_class: "btn--primary"
+    btn_label: "Atmósfera"    
+  - image_path: /assets/images/criosfera.jpg
+    alt: "Criosfera"
+    title: "Criosfera"
+    excerpt: "Criosfera"
+    url: "/_posts/2019-04-05-criosfera"
+    btn_class: "btn--primary"
+    btn_label: "Criosfera"
+  - id:"row2"
 
     
 ---
