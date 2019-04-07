@@ -28,14 +28,7 @@ feature_row:
     url: "/_posts/2019-04-05-criosfera"
     btn_class: "btn--primary"
     btn_label: "Criosfera"
-  - id:"row2"
-  - image_path: /assets/images/criosfera.jpg
-    alt: "Criosfera"
-    title: "Criosfera"
-    excerpt: "Criosfera"
-    url: "/_posts/2019-04-05-criosfera"
-    btn_class: "btn--primary"
-    btn_label: "Criosfera"
+
 ---
 
 
