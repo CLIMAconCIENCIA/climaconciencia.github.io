@@ -5,7 +5,7 @@ title: "El sistema climático"
 excerpt: "El sistema climático"
 author_profile: true 
 classes: wide  
-id: "row1" 
+feature_row: 
   - image_path: /assets/images/oceanografia.png
     alt: "Oceano"
     title: "Océano"
@@ -28,6 +28,28 @@ id: "row1"
     btn_class: "btn--primary"
     btn_label: "Criosfera"
 
+feature_row2: 
+  - image_path: /assets/images/oceanografia.png
+    alt: "Oceano"
+    title: "Océano"
+    excerpt: "Océano"
+    url: "/_posts/2019-04-05-oceano"
+    btn_class: "btn--primary"
+    btn_label: "Océano"
+  - image_path: /assets/images/atmosfera.png
+    alt: "Atmosfera"
+    title: "Atmósfera"
+    excerpt: "Atmósfera"
+    url: "/_posts/2019-04-05-atmosfera"
+    btn_class: "btn--primary"
+    btn_label: "Atmósfera"    
+  - image_path: /assets/images/criosfera.jpg
+    alt: "Criosfera"
+    title: "Criosfera"
+    excerpt: "Criosfera"
+    url: "/_posts/2019-04-05-criosfera"
+    btn_class: "btn--primary"
+    btn_label: "Criosfera"
 ---
 
 
@@ -82,4 +104,4 @@ Reduciendo aún más el período que tenemos escalas de tiempo interanuales con 
 
 Para el estudio del clima nos basamos principalmente en dos tipos de información complementaria: [las observaciones](https://climaconciencia.github.io/_posts/2019-04-05-observaciones) y [los modelos](https://climaconciencia.github.io/_posts/2019-04-05-modelos) 
 
-{% include feature_row id="row1" %}
+{% include feature_row id="feature_row2" %}
