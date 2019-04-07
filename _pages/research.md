@@ -52,13 +52,17 @@ Presentamos ahora los diferentes aspectos del sistema climático que puede alter
 
 La variabilidad climática se refiere a las desviaciones del sistema climático desde un estado promedio, promediado durante un período largo de referencia. Estas desviaciones se conocen como anomalías y se definen como la diferencia entre el estado del clima en un momento dado y el valor medio del estado durante un largo período llamado climatología. El clima varía en varias escalas temporales más allá de los eventos climáticos, que se refieren a los cambios diarios del estado de la atmósfera. Por lo tanto, la variabilidad del clima describe las variaciones en el estado de la atmósfera o el océano a lo largo de períodos de un mes, temporada, años e incluso una o más décadas. Las variaciones en períodos de más de un siglo se definen como el cambio climático. 
 
+
+It works for me on github
+
+<p align="center"> 
 <img src="/assets/images/research/enso.png"
      alt="alker"
      width="400" 
      description="Serie temporal de la variabilidad de ENSO. Figura tomada de [climatedataguide.ucar.edu](https://climatedataguide.ucar.edu/)."
      style="float: center;" />
-</p>
  <em>Serie temporal de la variabilidad de ENSO. Figura tomada de [climatedataguide.ucar.edu](https://climatedataguide.ucar.edu/)</em>
+</p>
 
 
 Los diferentes componentes del clima responden a los cambios en diferentes escalas de tiempo. Por ejemplo, la variabilidad atmosférica se puede medir en minutos, mientras que los cambios en la corteza terrestre pueden llevar hasta millones de años. En general, las variaciones en el sistema climático tienen la forma de ciclos como El Niño/Southern Oscillation (ENSO). Es una combinación entre un componente oceánico, El Niño, y la Oscilación del Sur atmosférica. En su fase cálida, El Niño, la temperatura superficial del mar, SST, del Pacífico oriental tropical se calienta unos pocos grados durante aproximadamente un año. Se acompaña de una alta presión de aire en el Pacífico occidental y una baja presión de aire en el Pacífico oriental que induce un cambio de dirección en los vientos alisios. Estas características cambian a su fase opuesta, La Niña, en aproximadamente 2-7 años, con una anomalía de frío en la temperatura de la superficie y una presión alta-baja en el Pacífico oriental-occidental, respectivamente. Estas dos fases que tienen una duración aproximada de unos meses quedan combinadas con una fase neutral sin anomalias en la SST. Junto con ENSO, encontramos oscilaciones con escalas de tiempo más largas, como los ciclos de Milankovitch, vinculados a las edades de hielo. Estos son cambios en los parámetros orbitales de la Tierra y, por lo tanto, en la radiación solar recibida con un período de una escala de 100 miles de años (Weertman et al. 1976). Una amplia variedad de ciclos con varios períodos tienen un papel en la variabilidad del clima.
