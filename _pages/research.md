@@ -58,10 +58,10 @@ Los diferentes componentes del clima responden a los cambios en diferentes escal
 En general, la cantidad de variabilidad en diferentes frecuencias se mide por la potencia espectral de una serie de temporal, por ejemplo, SST de los últimos 200 años en el Atlántico Norte. Desafortunadamente, no existe una serie existente de mediciones directas que incluya períodos desde horas hasta miles de años. La figura presentada muestra un espectro "hipotético" del sistema climático computado a partir de un conjunto de espectros de diferentes series de tiempo calculadas inicialmente por Mitchell et al. 1976. La izquierda de la figura corresponde a períodos más largos obtenidos de registros paleoclimáticos: sedimentos marinos, núcleos de hielo, anillos de árboles o registros de coral. A medida que el período disminuye, aparecen picos de variabilidad en el rango de variabilidad decadal a multidecadal. Parte de esta variabilidad está relacionada con el clima del Atlántico norte, en particular con la Variabilitdad multidecdal del Atlántico. Se caracteriza por cambios en la TSM del Atlántico Norte en escalas de tiempo de 20 y 50-70 años. También otros modos de variabilidad contribuyen a estas escalas de tiempo:  Norte una variabilidad océano-atmósfera con un patrón de aguas superficiales cálidas o frías en el Océano Pacífico al norte de 20 (Biondi en al 2001} o  fluctuaciones de la diferencia de presión atmosférica a nivel del mar (SLP) entre el bajo islandés y el alto de las Azores que controlan la fuerza y la dirección de los vientos del oeste y la ubicación de las pistas de tormentas en el Atlántico Norte \ citep {Hurrell2003}.
 
 
-<img src="/assets/images/research/Spectrum.png”
+<img src="/assets/images/research/Spectrum.png"
      alt="alker"
      width="600" 
-     description="Compuesto del espectro de la variedad climática del planeta tomado de Ghil et al. 2002 durante los último millón de años Myr. Figura adaptada de Mitchell et al. 1976."
+     description="Compuesto del espectro de la variedad climática del planeta tomado de Ghil et al. 2002 durante el último millón de años Myr. Figura adaptada de Mitchell et al. 1976."
      style="float: left; margin-right: 10px;" />
 
 
