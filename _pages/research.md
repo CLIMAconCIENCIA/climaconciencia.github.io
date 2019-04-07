@@ -28,8 +28,7 @@ feature_row:
     btn_class: "btn--primary"
     btn_label: "Criosfera"
   - id:"row1"
-  
-  feature_row:
+feature_row:
   - image_path: /assets/images/oceanografia.png
     alt: "Oceano"
     title: "Océano"
