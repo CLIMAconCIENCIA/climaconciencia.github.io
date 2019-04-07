@@ -28,7 +28,6 @@ feature_row:
     url: "/_posts/2019-04-05-criosfera"
     btn_class: "btn--primary"
     btn_label: "Criosfera"
-feature_row:
   id:"row2"
   - image_path: /assets/images/oceanografia.png
     alt: "Oceano"
