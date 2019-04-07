@@ -52,7 +52,7 @@ El sistema climático está compuesto por la atmósfera, criosfera, superficie t
 Presentamos ahora los diferentes aspectos del sistema climático que puede alterar su balance energético. 
 
 
-{% include feature_row id="row1"%}
+{% include feature_row id="row1" %}
 
 
 
@@ -91,4 +91,4 @@ Reduciendo aún más el período que tenemos escalas de tiempo interanuales con 
 
 Para el estudio del clima nos basamos principalmente en dos tipos de información complementaria: [las observaciones](https://climaconciencia.github.io/_posts/2019-04-05-observaciones) y [los modelos](https://climaconciencia.github.io/_posts/2019-04-05-modelos) 
 
-{% include feature_row id="row2"%}
+{% include feature_row id="row2" %}
