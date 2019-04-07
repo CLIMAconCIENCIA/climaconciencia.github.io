@@ -36,7 +36,7 @@ feature_row2:
     url: "/_posts/2019-04-05-observaciones"
     btn_class: "btn--primary"
     btn_label: "Observaciones"
-  - image_path: /assets/images/figGCM.png
+  - image_path: /assets/images/research/figGCM.png
     alt: "Modelos"
     title: "Modelos"
     excerpt: "Modelos"
