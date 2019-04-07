@@ -6,6 +6,7 @@ excerpt: "El sistema climático"
 author_profile: true 
 classes: wide  
 feature_row:
+  - id:"row1"
   - image_path: /assets/images/oceanografia.png
     alt: "Oceano"
     title: "Océano"
@@ -27,7 +28,14 @@ feature_row:
     url: "/_posts/2019-04-05-criosfera"
     btn_class: "btn--primary"
     btn_label: "Criosfera"
-  - id:"row1"
+  - id:"row2"
+  - image_path: /assets/images/criosfera.jpg
+    alt: "Criosfera"
+    title: "Criosfera"
+    excerpt: "Criosfera"
+    url: "/_posts/2019-04-05-criosfera"
+    btn_class: "btn--primary"
+    btn_label: "Criosfera"
 ---
 
 
