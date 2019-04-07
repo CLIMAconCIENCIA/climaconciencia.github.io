@@ -36,23 +36,7 @@ feature_row:
     url: "/_posts/2019-04-05-oceano"
     btn_class: "btn--primary"
     btn_label: "Océano"
-  - image_path: /assets/images/atmosfera.png
-    alt: "Atmosfera"
-    title: "Atmósfera"
-    excerpt: "Atmósfera"
-    url: "/_posts/2019-04-05-atmosfera"
-    btn_class: "btn--primary"
-    btn_label: "Atmósfera"    
-  - image_path: /assets/images/criosfera.jpg
-    alt: "Criosfera"
-    title: "Criosfera"
-    excerpt: "Criosfera"
-    url: "/_posts/2019-04-05-criosfera"
-    btn_class: "btn--primary"
-    btn_label: "Criosfera"
   - id:"row2"
-
-    
 ---
 
 
@@ -68,7 +52,7 @@ El sistema climático está compuesto por la atmósfera, criosfera, superficie t
 Presentamos ahora los diferentes aspectos del sistema climático que puede alterar su balance energético. 
 
 
-{% include feature_row id:"row1"%}
+{% include feature_row id="row1"%}
 
 
 
@@ -107,4 +91,4 @@ Reduciendo aún más el período que tenemos escalas de tiempo interanuales con 
 
 Para el estudio del clima nos basamos principalmente en dos tipos de información complementaria: [las observaciones](https://climaconciencia.github.io/_posts/2019-04-05-observaciones) y [los modelos](https://climaconciencia.github.io/_posts/2019-04-05-modelos) 
 
-{% include feature_row id:"row2"%}
+{% include feature_row id="row2"%}
