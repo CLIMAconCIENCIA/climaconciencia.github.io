@@ -56,7 +56,7 @@ La variabilidad climática se refiere a las desviaciones del sistema climático 
      alt="alker"
      width="400" 
      description="Serie temporal de la variabilidad de ENSO. Figura tomada de [climatedataguide.ucar.edu](https://climatedataguide.ucar.edu/)."
-     style="float: left; margin-right: 10px;" />
+     style="float: center; margin-right: 10px;" />
  <em>Serie temporal de la variabilidad de ENSO. Figura tomada de [climatedataguide.ucar.edu](https://climatedataguide.ucar.edu/)</em>
 
 
