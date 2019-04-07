@@ -6,7 +6,6 @@ excerpt: "El sistema climático"
 author_profile: true 
 classes: wide  
 feature_row:
-  - id:"row1"
   - image_path: /assets/images/oceanografia.png
     alt: "Oceano"
     title: "Océano"
@@ -44,7 +43,7 @@ El sistema climático está compuesto por la atmósfera, criosfera, superficie t
 Presentamos ahora los diferentes aspectos del sistema climático que puede alterar su balance energético. 
 
 
-{% include feature_row id="row1" %}
+{% include feature_row %}
 
 
 
