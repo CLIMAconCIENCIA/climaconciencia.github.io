@@ -20,14 +20,14 @@ feature_row:
     excerpt: "Descripción del sistema climático"
     url: "/research/"
     btn_class: "btn--primary"
-    btn_label: "Aprende más sobre el sistema climático"
+    btn_label: "Aprende más"
   - image_path: /assets/images/rutgersrobo.png
     alt: "blog"
     title: "Blog"
     excerpt: "Noticias y novedades de actualidad en ciencias climáticas"
     url: "/blog/"
     btn_class: "btn--primary"
-    btn_label: "Blogs"
+    btn_label: "Blog"
   - image_path: /assets/images/images.jpg
     alt: "about"
     title: "About"
