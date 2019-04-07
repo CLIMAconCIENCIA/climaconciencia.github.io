@@ -52,15 +52,12 @@ Presentamos ahora los diferentes aspectos del sistema climático que puede alter
 
 La variabilidad climática se refiere a las desviaciones del sistema climático desde un estado promedio, promediado durante un período largo de referencia. Estas desviaciones se conocen como anomalías y se definen como la diferencia entre el estado del clima en un momento dado y el valor medio del estado durante un largo período llamado climatología. El clima varía en varias escalas temporales más allá de los eventos climáticos, que se refieren a los cambios diarios del estado de la atmósfera. Por lo tanto, la variabilidad del clima describe las variaciones en el estado de la atmósfera o el océano a lo largo de períodos de un mes, temporada, años e incluso una o más décadas. Las variaciones en períodos de más de un siglo se definen como el cambio climático. 
 
-
-It works for me on github
-
 <p align="center"> 
 <img src="/assets/images/research/enso.png"
      alt="alker"
      width="400" 
      description="Serie temporal de la variabilidad de ENSO. Figura tomada de [climatedataguide.ucar.edu](https://climatedataguide.ucar.edu/)."
-     style="float: center;" />
+     style="float: center;" /> <br />
  <em>Serie temporal de la variabilidad de ENSO. Figura tomada de [climatedataguide.ucar.edu](https://climatedataguide.ucar.edu/)</em>
 </p>
 
