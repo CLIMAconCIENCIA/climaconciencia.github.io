@@ -79,4 +79,6 @@ Reduciendo aún más el período que tenemos escalas de tiempo interanuales con 
 
 <h2>¿Cómo estudiamos el clima?</h2>
 
-Para el estudio del clima nos basamos principalmente en dos tipos de información complementaria: las observaciones y los modelos. 
+Para el estudio del clima nos basamos principalmente en dos tipos de información complementaria: [las observaciones](https://climaconciencia.github.io/_posts/2019-04-05-observaciones) y [los modelos](https://climaconciencia.github.io/_posts/2019-04-05-modelos) 
+
+
