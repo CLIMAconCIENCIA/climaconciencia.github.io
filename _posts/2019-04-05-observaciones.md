@@ -27,4 +27,4 @@ feature_row2:
 
 <br/><br/>
 
-{% include feature_row2 %}
+{% include feature_row id ="feature_row2" %}
