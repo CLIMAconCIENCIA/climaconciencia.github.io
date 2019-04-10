@@ -29,7 +29,7 @@ Me llamo Victor Estella Perez, soy doctor en Ciencias del mar y de la tierra por
 
 <h2>Cristian Florindo Lopez</h2> 
 
-<img src="/assets/images/Cristian.jpg"
+<img src="/assets/images/Cristian.png"
      alt="Cristian Florindo Lopez"
      width="400"
      style="float: left; margin-right: 10px;" />
