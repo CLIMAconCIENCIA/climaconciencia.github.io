@@ -54,7 +54,7 @@ feature_row2:
      width="400"
      style="float: left; margin-right: 10px;" />
 
-El sistema climático está compuesto por la atmósfera, criosfera, superficie terrestr y biosfera. Esta regulado principalmente por el equilibrio entre la energía recibida por el sol y la pérdida de dicha energía al espacio. Los diferentes componentes intercambian energía que regula el balance energético del sistema climático. Estas componentes interactuan no solo intercambiando energía, sino también materia (el hielo se derrite y mezcla con el agua del mar, ..). Por lo tanto, cualquier variación de los componentes puede contribuir a un cambio del clima global. 
+El sistema climático está compuesto por la atmósfera, criosfera, superficie terrestre y biosfera. Está regulado principalmente por el equilibrio entre la energía recibida por el sol y la pérdida de dicha energía al espacio. Los diferentes componentes intercambian energía que regula el balance energético del sistema climático. Estos componentes interactuan no solo intercambiando energía, sino también materia (el hielo se derrite y se mezcla con el agua del mar, etc.). Por lo tanto, cualquier variación de los componentes puede contribuir a un cambio del clima global. 
 
 Presentamos ahora los diferentes aspectos del sistema climático que puede alterar su balance energético. 
 
