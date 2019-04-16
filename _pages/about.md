@@ -39,7 +39,7 @@ Me llamo Victor Estella Perez, soy doctor en Ciencias del mar y de la tierra por
 
 <img src="/assets/images/Lola.jpg"
      alt="Mª Dolores (Lola) Pérez Hernández"
-     width="400"
+     width="300"
      style="float: left; margin-right: 10px;" />
 
 Me llamo Mª Dolores (Lola) Pérez Hernández. Estudio la circulación de gran escala del océano,
