@@ -49,19 +49,18 @@ cuencas oceánicas. Principalmente me centro en el Atlántico norte (desde la zo
 Canarias hasta el Ártico) con algunas contribuciones realizadas en el Atlántico sur y Océano
 Índico.
 Actualmente soy científica titular del Instituto Marino y de Agua dulce de Islandia
-( Hafransóknastofnun ). Aquí estudio la variabilidad de las aguas oceánicas territoriales haciendo
+[Hafransóknastofnun](https://www.hafogvatn.is/). Aquí estudio la variabilidad de las aguas oceánicas territoriales haciendo
 uso de modelos y observaciones in situ. En el desarrollo de modelos colaboro estrechamente
-con el Instituto Marino de Noruega Bergen (IMR). Además, coopero en la estimación del stock
+con el Instituto Marino de Noruega Bergen [IMR](https://www.imr.no/en/hi). Además, coopero en la estimación del stock
 pesquero de algunas especies.
 Licenciada en Ciencias del Mar, Máster en Oceanografía y Doctora en Oceanografía por la
-Universidad de Las Palmas de Gran Canaria (ULPGC), dónde trabajé dentro del Instituto de
-Oceanografía y Cambio Global (IOCAG). Durante mis años de doctorado realicé tres estancias
-de investigación en: Woods Hole Oceanographic Institution (WHOI), Scripps Institution of
-Oceanography (SIO) y National Oceanography Centre (NOC). Durante estos años estudié los
-cambios monzonales del Océano Índico ecuatorial, el origen y la estacionalidad de la corriente
+Universidad de Las Palmas de Gran Canaria [ULPGC](https://www.ulpgc.es/), dónde trabajé dentro del Instituto de
+Oceanografía y Cambio Global [IOCAG](http://iocag.ulpgc.es/). Durante mis años de doctorado realicé tres estancias
+de investigación en: Woods Hole Oceanographic Institution [WHOI](https://www.whoi.edu/), Scripps Institution of
+Oceanography [SIO](https://scripps.ucsd.edu/) y National Oceanography Centre [NOC](https://noc.ac.uk/). Durante estos años estudié los cambios monzonales del Océano Índico ecuatorial, el origen y la estacionalidad de la corriente
 de Canarias y del Giro subtropical del Atlántico Norte, la variabilidad en la posición de la
 corriente del Golfo y la Corriente de las Malvinas.
 Posteriormente realicé un trabajo postdoctoral de tres años de duración en el Woods Hole
-Oceanographic Institution (WHOI). Durante este periodo me centré en caracterizar la corriente
-de Svalbard, que introduce aguas cálidas y salinas en el Océano Ártico.  [@lolailolei](https://twitter.com/lolailolei)
+Oceanographic Institution [WHOI](https://www.whoi.edu/). Durante este periodo me centré en caracterizar la corriente
+de Svalbard, que introduce aguas cálidas y salinas en el Océano Ártico. [@lolailolei](https://twitter.com/lolailolei)
 
