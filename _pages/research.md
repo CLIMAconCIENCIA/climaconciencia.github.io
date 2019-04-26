@@ -123,5 +123,5 @@ Resumiendo, el sistema climático recibe energía del Sol y mantiene un equilibr
      width="600"
      description="La insolación antes de interactuar con la atmósfera promediada en marzo de 2003 del satélite CERES de la NASA. Tomado de e-education.psu.edu."
      style="float: left; margin-right: 10px;" />
-<figcaption>La insolación antes de interactuar con la atmósfera promediada en marzo de 2003 del satélite CERES de la NASA. Tomado de e-education.psu.edu.</figcaption>
+<figcaption>La insolación antes de interactuar con la atmósfera promediada en marzo de 2003 del satélite CERES de la NASA. Tomado de e-education.psu.edu. Como podemos ver en el gráfico la zona ecuatorial es la que recibe mas radiación solar. A medida que nos desplazamos hacia los polos, estos reciben menos radiación solar generando un imbalance de la radiación llegada por el sol. </figcaption>
 </figure>
