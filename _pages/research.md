@@ -117,9 +117,11 @@ Los aerosoles son pequeñas partículas líquidas o sólidas suspendidas en el a
 
 Resumiendo, el sistema climático recibe energía del Sol y mantiene un equilibrio termodinámico. A su vez, la irradiancia solar entrante puede variar según el forzamiento radiativo que induce cambios en el sistema climático. Luego, debido a la curvatura de la Tierra y debido a que la reflectividad de la radiación solar no es globalmente homogénea (por ejemplo, la capa de hielo y nieve o la arena del desierto del Sahara tienen un albedo muy alto), la superficie no se calienta por igual en todo el mundo. Estas diferencias regionales de calor son clave para generar la dinámica del sistema climático, que distribuye la energía para aproximarse al equilibrio termodinámico global. A continuación, se presentan algunos conceptos básicos de los sistemas atmosféricos y oceánicos (para obtener información más detallada, consulte [grupo intergubernamental de expertos sobre el cambio climático](https://www.ipcc.ch/site/assets/uploads/2018/02/SYR_AR5_FINAL_full_es.pdf)).
 
-
+<figure>
 <img src="/assets/images/research/TOA-Insolation-march-2003.png"
      alt="alker"
      width="600"
      description="La insolación antes de interactuar con la atmósfera promediada en marzo de 2003 del satélite CERES de la NASA. Tomado de e-education.psu.edu."
      style="float: left; margin-right: 10px;" />
+<figcaption>La insolación antes de interactuar con la atmósfera promediada en marzo de 2003 del satélite CERES de la NASA. Tomado de e-education.psu.edu.</figcaption>
+</figure>
