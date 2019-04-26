@@ -99,3 +99,27 @@ Reduciendo aún más el período que tenemos escalas de tiempo interanuales con 
 Para el estudio del clima nos basamos principalmente en dos tipos de información complementaria: las observaciones y los modelos.
 
 {% include feature_row id="feature_row2" %}
+
+
+
+<h2>Forzamiento Radiativo</h2>
+
+El balance energético del sistema climático se puede alterar si se impone una perturbación en los agentes que la regulan. Este desequilibrio de energía forzada se denomina forzamiento radiativo o externo, que se define como la diferencia entre la irradiación solar entrante y la radiación neta saliente de la Tierra. El forzamiento radiativo es, por lo tanto, un factor importante que induce cambios en el clima, especialmente en relación con la temperatura media global. Respecto al origen de las causas que inducen el forzamiento radiativo, se clasifica en forzamientos antropogénicos, causados por el hombre, y naturales.
+
+La actividad humana puede modificar algunas propiedades del sistema climático con importantes implicaciones en el forzamiento radiativo. Por ejemplo, la combustión de combustibles fósiles en la actividad industrial, que se ha desarrollado rápidamente desde el siglo XIX, sigue generando grandes cantidades de gases de efecto invernadero (GEI), especialmente dióxido de carbono. Las emisiones de GEI producen un forzamiento antropogénico en el sistema climático a través de alteraciones del efecto invernadero de la atmósfera. Otro factor que interviene en el forzamiento radiativo es por ejemplo los diferentes usos del suelo, lo que implican cambios en el albedo de la superficie de la Tierra (propiedad de reflexión de la radiación solar).
+
+
+El forzamiento natural se produce principalmente por la variabilidad de la irradiancia solar y la actividad volcánica. La irradiancia solar depende de la actividad solar y los ciclos astronómicos que varían en diferentes escalas de tiempo, incluidas las centenarias y las milenarias. Estas variaciones afectan el forzamiento radiativo solar y, por lo tanto, inducen cambios en el sistema climático. Las erupciones volcánicas son esporádicas pero tienen efectos de fuerza radiativa duraderos y fuertes. Pueden inyectar partículas minerales, conocidas como aerosoles, en la estratosfera, donde tienen una larga vida útil.
+
+
+Los aerosoles son pequeñas partículas líquidas o sólidas suspendidas en el aire. Algunos de ellos tienen origen natural, como las partículas volcánicas antes mencionadas, el polvo de arena, la sal marina, etc. Pero otros son emitidos por fuentes humanas, como las emisiones industriales o el humo. Los aerosoles tienen efectos diferentes y complejos en el forzamiento radiativo. Por un lado, tienen un efecto directo sobre la radiación solar que consiste principalmente en dispersar la radiación de onda corta y, por lo tanto, enfriar la superficie de la Tierra. Pero dependiendo de la composición y el color, algunos aerosoles también pueden absorber la radiación de onda larga, calentando así la atmósfera. Por otro lado, los aerosoles tienen un efecto indirecto en el que interactúan con las nubes. En la troposfera, los aerosoles aumentan la concentración de los núcleos de condensación de las nubes, lo que lleva a cambios en las propiedades de las nubes, como el albedo. Por lo tanto, los aerosoles son una fuente de forzamiento radiativo natural o antropogénico, dependiendo de su origen.
+
+
+Resumiendo, el sistema climático recibe energía del Sol y mantiene un equilibrio termodinámico. A su vez, la irradiancia solar entrante puede variar según el forzamiento radiativo que induce cambios en el sistema climático. Luego, debido a la curvatura de la Tierra y debido a que la reflectividad de la radiación solar no es globalmente homogénea (por ejemplo, la capa de hielo y nieve o la arena del desierto del Sahara tienen un albedo muy alto), la superficie no se calienta por igual en todo el mundo. Estas diferencias regionales de calor son clave para generar la dinámica del sistema climático, que distribuye la energía para aproximarse al equilibrio termodinámico global. A continuación, se presentan algunos conceptos básicos de los sistemas atmosféricos y oceánicos (para obtener información más detallada, consulte [grupo intergubernamental de expertos sobre el cambio climático] (https://www.ipcc.ch/site/assets/uploads/2018/02/SYR_AR5_FINAL_full_es.pdf)).
+
+
+<img src="/assets/images/research/TOA-Insolation-march-2003.png"
+     alt="alker"
+     width="600"
+     description="La insolación antes de interactuar con la atmósfera promediada en marzo de 2003 del satélite CERES de la NASA. Tomado de e-education.psu.edu."
+     style="float: left; margin-right: 10px;" />
