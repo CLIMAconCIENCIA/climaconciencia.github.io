@@ -101,6 +101,23 @@ Para el estudio del clima nos basamos principalmente en dos tipos de informació
 {% include feature_row id="feature_row2" %}
 
 
+<h2>Termodinámica del sistema Climático</h2>
+
+<br/><br/>
+
+
+El sistema climático es termodinámico alimentado por la energía de la radiación solar entrante (irradiancia solar). Casi el 40 \% de esta radiación es reflejada al espacio por la atmósfera o la reflectividad de la superficie de la Tierra. Esto se conoce como el efecto albedo. Pero el resto de la radiación entrante de onda corta del Sol es absorbida por el sistema climático y calienta la superficie de la Tierra. La superficie de la Tierra, a su vez, irradia la energía almacenada en forma de radiación de onda larga hacia la atmósfera, que absorbe parte de ella manteniendo la temperatura en la Tierra. Este proceso se conoce como efecto invernadero y es crucial para regular el balance energético de todo el sistema climático. La capacidad del sistema climático para acumular energía depende de la composición de la atmósfera, en particular de la concentración de los llamados gases de efecto invernadero (GEI). Los GEI son gases que interactúan con la radiación de onda larga emitida por la superficie que absorbe y libera calor en la atmósfera. Por lo tanto, la concentración de GEI en la atmósfera puede regular la temperatura global. Estos gases son principalmente el vapor de agua, el dióxido de carbono, el metano, el óxido nitroso y el ozono.
+
+<br/><br/>
+
+
+Siendo $ S_0 $ la energía solar radiativa por unidad de área perpendicular a la dirección de la radiación solar, la Tierra recibe una radiación total que es proporcional a su sección circunferencial y se distribuye por toda su superficie esférica. Por lo tanto, el promedio de radiación solar entrante por unidad de área (en la parte superior de la atmósfera) es de $ S_0 / 4 $. Considerando el albedo como la fracción $ \ alpha $ del total de la radiación solar entrante que refleja la Tierra en su conjunto, la energía que absorbe el sistema climático es $ (1 - \ alpha) S_0 / 4 $ (\ autoref {fig1_ch1 }). Pero el sistema climático no retiene el calor indefinidamente. Tiende al equilibrio termodinámico irradiando hacia el espacio la misma cantidad de energía absorbida por el sol. Siguiendo la ley de Stefan-Boltzmann del \ emph {cuerpo negro}, la energía radiada por unidad de área es proporcional a la cuarta potencia de su temperatura. Luego, el equilibrio termodinámico de todo el sistema de la Tierra, calentado a una temperatura de $ T_E $, se puede expresar como:
+
+
+<a href="https://www.codecogs.com/eqnedit.php?latex=\emph{f}&space;\cdot&space;\sigma&space;\cdot&space;T_s^4&space;=&space;2&space;\cdot&space;\emph{f}&space;\cdot&space;\sigma&space;\cdot&space;T_a^4" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\emph{f}&space;\cdot&space;\sigma&space;\cdot&space;T_s^4&space;=&space;2&space;\cdot&space;\emph{f}&space;\cdot&space;\sigma&space;\cdot&space;T_a^4" title="\emph{f} \cdot \sigma \cdot T_s^4 = 2 \cdot \emph{f} \cdot \sigma \cdot T_a^4" /></a>
+
+
+
 
 <h2>Forzamiento Radiativo</h2>
 
