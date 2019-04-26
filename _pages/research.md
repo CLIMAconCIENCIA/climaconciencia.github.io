@@ -139,6 +139,7 @@ A su vez, el equilibrio termodinámico del sistema climático de la Tierra (dife
 donde el primer término del lado derecho de la ecuación es la radiación de onda larga saliente de la superficie de la Tierra que no es absorbida por la atmósfera y el segundo término es la radiación emitida por la atmósfera (Figura) . 
 
 En resumen, considerando las ecuaciones 2 y 3, la temperatura de equilibrio de la superficie de la Tierra se puede estimar mediante la siguiente expresión:
+
 <a href="https://www.codecogs.com/eqnedit.php?latex=T_s&space;=&space;{\left(\cfrac{(1-\alpha)&space;\cdot&space;S_0&space;\&space;}{2&space;\cdot&space;(2-\emph{f})&space;\cdot&space;\sigma&space;\&space;}\right)}&space;^&space;{1/4}" target="_blank"><img src="https://latex.codecogs.com/gif.latex?T_s&space;=&space;{\left(\cfrac{(1-\alpha)&space;\cdot&space;S_0&space;\&space;}{2&space;\cdot&space;(2-\emph{f})&space;\cdot&space;\sigma&space;\&space;}\right)}&space;^&space;{1/4}" title="T_s = {\left(\cfrac{(1-\alpha) \cdot S_0 \ }{2 \cdot (2-\emph{f}) \cdot \sigma \ }\right)} ^ {1/4}" /></a>
 
 <br/><br/>
