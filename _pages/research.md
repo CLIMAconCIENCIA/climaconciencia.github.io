@@ -120,7 +120,7 @@ El sistema climático es termodinámico alimentado por la energía de la radiaci
 <p align="center"> 
 <img src="/assets/images/research/FIG1-GHG.png"
      alt="alker"
-     width="300"
+     width="100"
      description=""
      style="float: center;" />
 </p> 
