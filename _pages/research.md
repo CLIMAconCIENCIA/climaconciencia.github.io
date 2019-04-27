@@ -51,7 +51,7 @@ feature_row2:
 
 <img src="/assets/images/sistema_climatico.jpg" 
      alt="sist_clim"  
-     width="400"
+     width="500"
      style="float: left; margin-right: 10px;" />
 
 El sistema climático está compuesto por la atmósfera, criosfera, superficie terrestre y biosfera. Está regulado principalmente por el equilibrio entre la energía recibida por el sol y la pérdida de dicha energía al espacio. Los diferentes componentes intercambian energía que regula el balance energético del sistema climático. Estos componentes interactuan no solo intercambiando energía, sino también materia (el hielo se derrite y se mezcla con el agua del mar, etc.). Por lo tanto, cualquier variación de los componentes puede contribuir a un cambio del clima global. 
@@ -72,7 +72,7 @@ La variabilidad climática se refiere a las desviaciones del sistema climático 
 <p align="center"> 
 <img src="/assets/images/research/enso.png"
      alt="alker"
-     width="400" 
+     width="500" 
      description="Serie temporal de la variabilidad de ENSO. Figura tomada de [climatedataguide.ucar.edu](https://climatedataguide.ucar.edu/)."
      style="float: center;" />  </p> 
  <figure>  <figcaption>  Serie temporal de la variabilidad de ENSO. Figura tomada de [climatedataguide.ucar.edu](https://climatedataguide.ucar.edu/)
@@ -87,11 +87,11 @@ En general, la cantidad de variabilidad en diferentes frecuencias se mide por la
 <p align="center"> 
 <img src="/assets/images/research/Spectrum.png"
      alt="alker"
-     width="300" />
+     width="300" /></p> 
 <figure><figcaption>  Compuesto del espectro de la variedad climática del planeta tomado de Ghil et al. 2002 durante el último millón de años Myr. Figura adaptada de Mitchell et al. 1976.
 </figcaption>   
 </figure>  
-</p> 
+
 
 Reduciendo aún más el período que tenemos escalas de tiempo interanuales con El Niño / Oscilación del Sur (ENOS) como uno de los principales impulsores de estas escalas de tiempo. Si Reducimos las escalas a años y días (ambos picos afilados a la derecha de la figura). Las protuberancias más pequeñas a la derecha de la figura se asocian con la variabilidad de los sistemas climáticos en la variabilidad intraestacional entre 1 y 3 meses y rangos de 3 a 7 días. El componente dominante de las escalas de tiempo intraestacionales es la Oscilación Madden-Julian, un acoplamiento entre los patrones a gran escala en la circulación atmosférica y la convección profunda (Zhanget al. 2005). Se observa principalmente en el océano Índico y el Pacífico, y consiste en grandes regiones de lluvias tropicales mejoradas y suprimidas que se desplazan hacia el este.
 
@@ -168,7 +168,6 @@ Los aerosoles son pequeñas partículas líquidas o sólidas suspendidas en el a
 Resumiendo, el sistema climático recibe energía del Sol y mantiene un equilibrio termodinámico. A su vez, la irradiancia solar entrante puede variar según el forzamiento radiativo que induce cambios en el sistema climático. Luego, debido a la curvatura de la Tierra y debido a que la reflectividad de la radiación solar no es globalmente homogénea (por ejemplo, la capa de hielo y nieve o la arena del desierto del Sahara tienen un albedo muy alto), la superficie no se calienta por igual en todo el mundo. Estas diferencias regionales de calor son clave para generar la dinámica del sistema climático, que distribuye la energía para aproximarse al equilibrio termodinámico global. A continuación, se presentan algunos conceptos básicos de los sistemas atmosféricos y oceánicos (para obtener información más detallada, consulte [grupo intergubernamental de expertos sobre el cambio climático](https://www.ipcc.ch/site/assets/uploads/2018/02/SYR_AR5_FINAL_full_es.pdf)).
 
 
-<figure>
 <p align="center"> 
 <img src="/assets/images/research/TOA-Insolation-march-2003.png"
      alt="alker"
@@ -176,6 +175,7 @@ Resumiendo, el sistema climático recibe energía del Sol y mantiene un equilibr
      description="La insolación antes de interactuar con la atmósfera promediada en marzo de 2003 del satélite CERES de la NASA. Tomado de e-education.psu.edu."
      style="float: left; margin-right: 10px;" />
 </p> 
+<figure>
 <figcaption>La insolación antes de interactuar con la atmósfera promediada en marzo de 2003 del satélite CERES de la NASA. Tomado de e-education.psu.edu. Como podemos ver en el gráfico la zona ecuatorial es la que recibe mas radiación solar. A medida que nos desplazamos hacia los polos, estos reciben menos radiación solar generando un imbalance de la radiación llegada por el sol. </figcaption>
 </figure>
 
