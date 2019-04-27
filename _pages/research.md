@@ -72,7 +72,7 @@ La variabilidad climática se refiere a las desviaciones del sistema climático 
 <p align="center"> 
 <img src="/assets/images/research/enso.png"
      alt="alker"
-     width="300" 
+     width="400" 
      description="Serie temporal de la variabilidad de ENSO. Figura tomada de [climatedataguide.ucar.edu](https://climatedataguide.ucar.edu/)."
      style="float: center;" />  </p> 
  <figure>  <figcaption>  Serie temporal de la variabilidad de ENSO. Figura tomada de [climatedataguide.ucar.edu](https://climatedataguide.ucar.edu/)
@@ -85,11 +85,10 @@ Los diferentes componentes del clima responden a los cambios en diferentes escal
 En general, la cantidad de variabilidad en diferentes frecuencias se mide por la potencia espectral de una serie de temporal, por ejemplo, SST de los últimos 200 años en el Atlántico Norte. Desafortunadamente, no existe una serie existente de mediciones directas que incluya períodos desde horas hasta miles de años. La figura presentada muestra un espectro "hipotético" del sistema climático computado a partir de un conjunto de espectros de diferentes series de tiempo calculadas inicialmente por Mitchell et al. 1976. La izquierda de la figura corresponde a períodos más largos obtenidos de registros paleoclimáticos: sedimentos marinos, núcleos de hielo, anillos de árboles o registros de coral. A medida que el período disminuye, aparecen picos de variabilidad en el rango de variabilidad decadal a multidecadal. Parte de esta variabilidad está relacionada con el clima del Atlántico norte, en particular con la Variabilitdad multidecdal del Atlántico. Se caracteriza por cambios en la TSM del Atlántico Norte en escalas de tiempo de 20 y 50-70 años. También otros modos de variabilidad contribuyen a estas escalas de tiempo:  Norte una variabilidad océano-atmósfera con un patrón de aguas superficiales cálidas o frías en el Océano Pacífico al norte de 20 (Biondi en al 2001} o  fluctuaciones de la diferencia de presión atmosférica a nivel del mar (SLP) entre el bajo islandés y el alto de las Azores que controlan la fuerza y la dirección de los vientos del oeste y la ubicación de las pistas de tormentas en el Atlántico Norte (Hurrell et al. 2003).
 
 <p align="center"> 
-<figure>
 <img src="/assets/images/research/Spectrum.png"
      alt="alker"
-     width="100" />
-<figcaption>  Compuesto del espectro de la variedad climática del planeta tomado de Ghil et al. 2002 durante el último millón de años Myr. Figura adaptada de Mitchell et al. 1976.
+     width="300" />
+<figure><figcaption>  Compuesto del espectro de la variedad climática del planeta tomado de Ghil et al. 2002 durante el último millón de años Myr. Figura adaptada de Mitchell et al. 1976.
 </figcaption>   
 </figure>  
 </p> 
@@ -112,12 +111,12 @@ Para el estudio del clima nos basamos principalmente en dos tipos de informació
 
 El sistema climático es termodinámico alimentado por la energía de la radiación solar entrante (irradiancia solar). Casi el 40 \% de esta radiación es reflejada al espacio por la atmósfera o la reflectividad de la superficie de la Tierra. Esto se conoce como el efecto albedo. Pero el resto de la radiación entrante de onda corta del Sol es absorbida por el sistema climático y calienta la superficie de la Tierra. La superficie de la Tierra, a su vez, irradia la energía almacenada en forma de radiación de onda larga hacia la atmósfera, que absorbe parte de ella manteniendo la temperatura en la Tierra. Este proceso se conoce como efecto invernadero y es crucial para regular el balance energético de todo el sistema climático. La capacidad del sistema climático para acumular energía depende de la composición de la atmósfera, en particular de la concentración de los llamados gases de efecto invernadero (GEI). Los GEI son gases que interactúan con la radiación de onda larga emitida por la superficie que absorbe y libera calor en la atmósfera. Por lo tanto, la concentración de GEI en la atmósfera puede regular la temperatura global. Estos gases son principalmente el vapor de agua, el dióxido de carbono, el metano, el óxido nitroso y el ozono.
 
-<figure>
+
 <p align="center"> 
 <img src="/assets/images/research/FIG1-GHG.png"
      alt="alker"
      width="100" />
-</p> 
+</p> <figure>
 <figcaption> Representación esquemática del efecto invernadero. Las flechas amarillas representan la radiación solar de onda corta, con la energía solar total por unidad de área que el sistema climático refleja y absorbe expresada. Las flechas rojas representan la radiación de onda larga saliente del sistema climático por unidad de área emitida por la superficie de la Tierra a la atmósfera y a través de ella y la emitida por la atmósfera hacia arriba y hacia abajo. El significado de los términos de las expresiones se explica en el texto.
 </figcaption>   
 </figure>  
