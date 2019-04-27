@@ -187,7 +187,7 @@ Resumiendo, el sistema climático recibe energía del Sol y mantiene un equilibr
 <p align="center"> 
 <img src="/assets/images/research/TOA-Insolation-march-2003.png"
      alt="alker"
-     width="400"
+     width="200"
      description="La insolación antes de interactuar con la atmósfera promediada en marzo de 2003 del satélite CERES de la NASA. Tomado de e-education.psu.edu."
      style="float: left; margin-right: 10px;" />
 </p> 
