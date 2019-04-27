@@ -72,7 +72,7 @@ La variabilidad climática se refiere a las desviaciones del sistema climático 
 <p align="center"> 
 <img src="/assets/images/research/enso.png"
      alt="alker"
-     width="500" 
+     width="600" 
      description="Serie temporal de la variabilidad de ENSO. Figura tomada de [climatedataguide.ucar.edu](https://climatedataguide.ucar.edu/)."
      style="float: center;" />  </p> 
  <figure>  <figcaption>  Serie temporal de la variabilidad de ENSO. Figura tomada de [climatedataguide.ucar.edu](https://climatedataguide.ucar.edu/)
@@ -87,7 +87,7 @@ En general, la cantidad de variabilidad en diferentes frecuencias se mide por la
 <p align="center"> 
 <img src="/assets/images/research/Spectrum.png"
      alt="alker"
-     width="300" /></p> 
+     width="600" /></p> 
 <figure><figcaption>  Compuesto del espectro de la variedad climática del planeta tomado de Ghil et al. 2002 durante el último millón de años Myr. Figura adaptada de Mitchell et al. 1976.
 </figcaption>   
 </figure>  
@@ -115,7 +115,7 @@ El sistema climático es termodinámico alimentado por la energía de la radiaci
 <p align="center"> 
 <img src="/assets/images/research/FIG1-GHG.png"
      alt="alker"
-     width="100" />
+     width="600" />
 </p> <figure>
 <figcaption> Representación esquemática del efecto invernadero. Las flechas amarillas representan la radiación solar de onda corta, con la energía solar total por unidad de área que el sistema climático refleja y absorbe expresada. Las flechas rojas representan la radiación de onda larga saliente del sistema climático por unidad de área emitida por la superficie de la Tierra a la atmósfera y a través de ella y la emitida por la atmósfera hacia arriba y hacia abajo. El significado de los términos de las expresiones se explica en el texto.
 </figcaption>   
@@ -171,10 +171,9 @@ Resumiendo, el sistema climático recibe energía del Sol y mantiene un equilibr
 <p align="center"> 
 <img src="/assets/images/research/TOA-Insolation-march-2003.png"
      alt="alker"
-     width="100"
+     width="600"
      description="La insolación antes de interactuar con la atmósfera promediada en marzo de 2003 del satélite CERES de la NASA. Tomado de e-education.psu.edu."
-     style="float: left; margin-right: 10px;" />
-</p> 
+     style="float: center " /></p> 
 <figure>
 <figcaption>La insolación antes de interactuar con la atmósfera promediada en marzo de 2003 del satélite CERES de la NASA. Tomado de e-education.psu.edu. Como podemos ver en el gráfico la zona ecuatorial es la que recibe mas radiación solar. A medida que nos desplazamos hacia los polos, estos reciben menos radiación solar generando un imbalance de la radiación llegada por el sol. </figcaption>
 </figure>
