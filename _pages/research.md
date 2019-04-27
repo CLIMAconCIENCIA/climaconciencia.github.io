@@ -115,7 +115,7 @@ El sistema climático es termodinámico alimentado por la energía de la radiaci
 <p align="center"> 
 <img src="/assets/images/research/FIG1-GHG.png"
      alt="alker"
-     width="600" />
+     width="400" />
 </p> <figure>
 <figcaption> Representación esquemática del efecto invernadero. Las flechas amarillas representan la radiación solar de onda corta, con la energía solar total por unidad de área que el sistema climático refleja y absorbe expresada. Las flechas rojas representan la radiación de onda larga saliente del sistema climático por unidad de área emitida por la superficie de la Tierra a la atmósfera y a través de ella y la emitida por la atmósfera hacia arriba y hacia abajo. El significado de los términos de las expresiones se explica en el texto.
 </figcaption>   
