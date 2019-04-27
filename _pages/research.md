@@ -69,12 +69,15 @@ Presentamos ahora los diferentes aspectos del sistema climático que puede alter
 La variabilidad climática se refiere a las desviaciones del sistema climático desde un estado promedio, promediado durante un período largo de referencia. Estas desviaciones se conocen como anomalías y se definen como la diferencia entre el estado del clima en un momento dado y el valor medio del estado durante un largo período llamado climatología. El clima varía en varias escalas temporales más allá de los eventos climáticos, que se refieren a los cambios diarios del estado de la atmósfera. Por lo tanto, la variabilidad del clima describe las variaciones en el estado de la atmósfera o el océano a lo largo de períodos de un mes, temporada, años e incluso una o más décadas. Las variaciones en períodos de más de un siglo se definen como el cambio climático. 
 
 <p align="center"> 
+<figure> 
 <img src="/assets/images/research/enso.png"
      alt="alker"
      width="400" 
      description="Serie temporal de la variabilidad de ENSO. Figura tomada de [climatedataguide.ucar.edu](https://climatedataguide.ucar.edu/)."
      style="float: center;" /> <br />
- <em>Serie temporal de la variabilidad de ENSO. Figura tomada de [climatedataguide.ucar.edu](https://climatedataguide.ucar.edu/)</em>
+  <figcaption>  Serie temporal de la variabilidad de ENSO. Figura tomada de [climatedataguide.ucar.edu](https://climatedataguide.ucar.edu/)
+</figcaption>   
+</figure> 
 </p>
 
 
@@ -83,11 +86,15 @@ Los diferentes componentes del clima responden a los cambios en diferentes escal
 En general, la cantidad de variabilidad en diferentes frecuencias se mide por la potencia espectral de una serie de temporal, por ejemplo, SST de los últimos 200 años en el Atlántico Norte. Desafortunadamente, no existe una serie existente de mediciones directas que incluya períodos desde horas hasta miles de años. La figura presentada muestra un espectro "hipotético" del sistema climático computado a partir de un conjunto de espectros de diferentes series de tiempo calculadas inicialmente por Mitchell et al. 1976. La izquierda de la figura corresponde a períodos más largos obtenidos de registros paleoclimáticos: sedimentos marinos, núcleos de hielo, anillos de árboles o registros de coral. A medida que el período disminuye, aparecen picos de variabilidad en el rango de variabilidad decadal a multidecadal. Parte de esta variabilidad está relacionada con el clima del Atlántico norte, en particular con la Variabilitdad multidecdal del Atlántico. Se caracteriza por cambios en la TSM del Atlántico Norte en escalas de tiempo de 20 y 50-70 años. También otros modos de variabilidad contribuyen a estas escalas de tiempo:  Norte una variabilidad océano-atmósfera con un patrón de aguas superficiales cálidas o frías en el Océano Pacífico al norte de 20 (Biondi en al 2001} o  fluctuaciones de la diferencia de presión atmosférica a nivel del mar (SLP) entre el bajo islandés y el alto de las Azores que controlan la fuerza y la dirección de los vientos del oeste y la ubicación de las pistas de tormentas en el Atlántico Norte (Hurrell et al. 2003).
 
 <p align="center"> 
+<figure>
 <img src="/assets/images/research/Spectrum.png"
      alt="alker"
      width="400" 
-     description="Compuesto del espectro de la variedad climática del planeta tomado de Ghil et al. 2002 durante el último millón de años Myr. Figura adaptada de Mitchell et al. 1976."
+     description=""
      style="float: left; margin-right: 10px;" />
+<figcaption>  Compuesto del espectro de la variedad climática del planeta tomado de Ghil et al. 2002 durante el último millón de años Myr. Figura adaptada de Mitchell et al. 1976.
+</figcaption>   
+</figure>  
 </p> 
 
 Reduciendo aún más el período que tenemos escalas de tiempo interanuales con El Niño / Oscilación del Sur (ENOS) como uno de los principales impulsores de estas escalas de tiempo. Si Reducimos las escalas a años y días (ambos picos afilados a la derecha de la figura). Las protuberancias más pequeñas a la derecha de la figura se asocian con la variabilidad de los sistemas climáticos en la variabilidad intraestacional entre 1 y 3 meses y rangos de 3 a 7 días. El componente dominante de las escalas de tiempo intraestacionales es la Oscilación Madden-Julian, un acoplamiento entre los patrones a gran escala en la circulación atmosférica y la convección profunda (Zhanget al. 2005). Se observa principalmente en el océano Índico y el Pacífico, y consiste en grandes regiones de lluvias tropicales mejoradas y suprimidas que se desplazan hacia el este.
@@ -109,13 +116,18 @@ Para el estudio del clima nos basamos principalmente en dos tipos de informació
 El sistema climático es termodinámico alimentado por la energía de la radiación solar entrante (irradiancia solar). Casi el 40 \% de esta radiación es reflejada al espacio por la atmósfera o la reflectividad de la superficie de la Tierra. Esto se conoce como el efecto albedo. Pero el resto de la radiación entrante de onda corta del Sol es absorbida por el sistema climático y calienta la superficie de la Tierra. La superficie de la Tierra, a su vez, irradia la energía almacenada en forma de radiación de onda larga hacia la atmósfera, que absorbe parte de ella manteniendo la temperatura en la Tierra. Este proceso se conoce como efecto invernadero y es crucial para regular el balance energético de todo el sistema climático. La capacidad del sistema climático para acumular energía depende de la composición de la atmósfera, en particular de la concentración de los llamados gases de efecto invernadero (GEI). Los GEI son gases que interactúan con la radiación de onda larga emitida por la superficie que absorbe y libera calor en la atmósfera. Por lo tanto, la concentración de GEI en la atmósfera puede regular la temperatura global. Estos gases son principalmente el vapor de agua, el dióxido de carbono, el metano, el óxido nitroso y el ozono.
 
 <br/><br/>
+<figure>
 <p align="center"> 
 <img src="/assets/images/research/FIG1-GHG.png"
      alt="alker"
      width="300"
-     description="Representación esquemática del efecto invernadero. Las flechas amarillas representan la radiación solar de onda corta, con la energía solar total por unidad de área que el sistema climático refleja y absorbe expresada. Las flechas rojas representan la radiación de onda larga saliente del sistema climático por unidad de área emitida por la superficie de la Tierra a la atmósfera y a través de ella y la emitida por la atmósfera hacia arriba y hacia abajo. El significado de los términos de las expresiones se explica en el texto.."
+     description=""
      style="float: left; margin-right: 10px;" />
+<figcaption> Representación esquemática del efecto invernadero. Las flechas amarillas representan la radiación solar de onda corta, con la energía solar total por unidad de área que el sistema climático refleja y absorbe expresada. Las flechas rojas representan la radiación de onda larga saliente del sistema climático por unidad de área emitida por la superficie de la Tierra a la atmósfera y a través de ella y la emitida por la atmósfera hacia arriba y hacia abajo. El significado de los términos de las expresiones se explica en el texto.
+</figcaption>   
+</figure>  
 </p> 
+
 <br/><br/>
 
 Siendo <a href="https://www.codecogs.com/eqnedit.php?latex=$&space;S_0&space;$" target="_blank"><img src="https://latex.codecogs.com/gif.latex?$&space;S_0&space;$" title="$ S_0 $" /></a> la energía solar radiativa por unidad de área perpendicular a la dirección de la radiación solar, la Tierra recibe una radiación total que es proporcional a su sección circunferencial y se distribuye por toda su superficie esférica. Por lo tanto, el promedio de radiación solar entrante por unidad de área (en la parte superior de la atmósfera) es de <a href="https://www.codecogs.com/eqnedit.php?latex=$&space;S_0&space;/&space;4&space;$" target="_blank"><img src="https://latex.codecogs.com/gif.latex?$&space;S_0&space;/&space;4&space;$" title="$ S_0 / 4 $" /></a>. Considerando el albedo como la fracción <a href="https://www.codecogs.com/eqnedit.php?latex=$&space;\&space;alpha&space;$" target="_blank"><img src="https://latex.codecogs.com/gif.latex?$&space;\alpha&space;$" title="$ \alpha $" /></a> del total de la radiación solar entrante que refleja la Tierra en su conjunto, la energía que absorbe el sistema climático es <a href="https://www.codecogs.com/eqnedit.php?latex=$&space;(1&space;-&space;\alpha)&space;S_0&space;/&space;4&space;$" target="_blank"><img src="https://latex.codecogs.com/gif.latex?$&space;(1&space;-&space;\alpha)&space;S_0&space;/&space;4&space;$" title="$ (1 - \alpha) S_0 / 4 $" /></a>. Pero el sistema climático no retiene el calor indefinidamente. Tiende al equilibrio termodinámico irradiando hacia el espacio la misma cantidad de energía absorbida por el sol. Siguiendo la ley de Stefan-Boltzmann del cuerpo negro, la energía radiada por unidad de área es proporcional a la cuarta potencia de su temperatura. Luego, el equilibrio termodinámico de todo el sistema de la Tierra, calentado a una temperatura de <a href="https://www.codecogs.com/eqnedit.php?latex=$&space;T_E&space;$" target="_blank"><img src="https://latex.codecogs.com/gif.latex?$&space;T_E&space;$" title="$ T_E $" /></a>, se puede expresar como:
@@ -154,8 +166,6 @@ En resumen, considerando las ecuaciones 2 y 3, la temperatura de equilibrio de l
 Con respecto a la ecuación 4, la temperatura de la superficie de la Tierra depende del albedo (<a href="https://www.codecogs.com/eqnedit.php?latex=$&space;\alpha&space;$" target="_blank"><img src="https://latex.codecogs.com/gif.latex?$&space;\alpha&space;$" title="$ \alpha $" /></a>) y del efecto invernadero de la atmósfera (<a href="https://www.codecogs.com/eqnedit.php?latex=\emph{f}" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\emph{f}" title="\emph{f}" /></a>), que es proporcional a la concentración de GEI en la atmósfera. Esta dependencia se produce de tal manera que cuanto menor sea el albedo y mayor sea el efecto invernadero, mayor será la temperatura y viceversa. 
 
 
-
-
 <h2>Forzamiento Radiativo</h2>
 
 El balance energético del sistema climático se puede alterar si se impone una perturbación en los agentes que la regulan. Este desequilibrio de energía forzada se denomina forzamiento radiativo o externo, que se define como la diferencia entre la irradiación solar entrante y la radiación neta saliente de la Tierra. El forzamiento radiativo es, por lo tanto, un factor importante que induce cambios en el clima, especialmente en relación con la temperatura media global. Respecto al origen de las causas que inducen el forzamiento radiativo, se clasifica en forzamientos antropogénicos, causados por el hombre, y naturales.
@@ -171,13 +181,14 @@ Los aerosoles son pequeñas partículas líquidas o sólidas suspendidas en el a
 
 Resumiendo, el sistema climático recibe energía del Sol y mantiene un equilibrio termodinámico. A su vez, la irradiancia solar entrante puede variar según el forzamiento radiativo que induce cambios en el sistema climático. Luego, debido a la curvatura de la Tierra y debido a que la reflectividad de la radiación solar no es globalmente homogénea (por ejemplo, la capa de hielo y nieve o la arena del desierto del Sahara tienen un albedo muy alto), la superficie no se calienta por igual en todo el mundo. Estas diferencias regionales de calor son clave para generar la dinámica del sistema climático, que distribuye la energía para aproximarse al equilibrio termodinámico global. A continuación, se presentan algunos conceptos básicos de los sistemas atmosféricos y oceánicos (para obtener información más detallada, consulte [grupo intergubernamental de expertos sobre el cambio climático](https://www.ipcc.ch/site/assets/uploads/2018/02/SYR_AR5_FINAL_full_es.pdf)).
 
-<figure>
 <p align="center"> 
+<figure>
+
 <img src="/assets/images/research/TOA-Insolation-march-2003.png"
      alt="alker"
      width="400"
      description="La insolación antes de interactuar con la atmósfera promediada en marzo de 2003 del satélite CERES de la NASA. Tomado de e-education.psu.edu."
      style="float: left; margin-right: 10px;" />
 <figcaption>La insolación antes de interactuar con la atmósfera promediada en marzo de 2003 del satélite CERES de la NASA. Tomado de e-education.psu.edu. Como podemos ver en el gráfico la zona ecuatorial es la que recibe mas radiación solar. A medida que nos desplazamos hacia los polos, estos reciben menos radiación solar generando un imbalance de la radiación llegada por el sol. </figcaption>
-</p> 
 </figure>
+</p> 
