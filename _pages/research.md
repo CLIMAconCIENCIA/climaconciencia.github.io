@@ -108,14 +108,13 @@ Para el estudio del clima nos basamos principalmente en dos tipos de informació
 {% include feature_row id="feature_row2" %}
 
 
-<h2>Termodinámica del sistema Climático</h2>
-
 <br/><br/>
+
+<h2>Termodinámica del sistema Climático</h2>
 
 
 El sistema climático es termodinámico alimentado por la energía de la radiación solar entrante (irradiancia solar). Casi el 40 \% de esta radiación es reflejada al espacio por la atmósfera o la reflectividad de la superficie de la Tierra. Esto se conoce como el efecto albedo. Pero el resto de la radiación entrante de onda corta del Sol es absorbida por el sistema climático y calienta la superficie de la Tierra. La superficie de la Tierra, a su vez, irradia la energía almacenada en forma de radiación de onda larga hacia la atmósfera, que absorbe parte de ella manteniendo la temperatura en la Tierra. Este proceso se conoce como efecto invernadero y es crucial para regular el balance energético de todo el sistema climático. La capacidad del sistema climático para acumular energía depende de la composición de la atmósfera, en particular de la concentración de los llamados gases de efecto invernadero (GEI). Los GEI son gases que interactúan con la radiación de onda larga emitida por la superficie que absorbe y libera calor en la atmósfera. Por lo tanto, la concentración de GEI en la atmósfera puede regular la temperatura global. Estos gases son principalmente el vapor de agua, el dióxido de carbono, el metano, el óxido nitroso y el ozono.
 
-<br/><br/>
 <figure>
 <p align="center"> 
 <img src="/assets/images/research/FIG1-GHG.png"
@@ -127,9 +126,6 @@ El sistema climático es termodinámico alimentado por la energía de la radiaci
 <figcaption> Representación esquemática del efecto invernadero. Las flechas amarillas representan la radiación solar de onda corta, con la energía solar total por unidad de área que el sistema climático refleja y absorbe expresada. Las flechas rojas representan la radiación de onda larga saliente del sistema climático por unidad de área emitida por la superficie de la Tierra a la atmósfera y a través de ella y la emitida por la atmósfera hacia arriba y hacia abajo. El significado de los términos de las expresiones se explica en el texto.
 </figcaption>   
 </figure>  
-
-
-<br/><br/>
 
 Siendo <a href="https://www.codecogs.com/eqnedit.php?latex=$&space;S_0&space;$" target="_blank"><img src="https://latex.codecogs.com/gif.latex?$&space;S_0&space;$" title="$ S_0 $" /></a> la energía solar radiativa por unidad de área perpendicular a la dirección de la radiación solar, la Tierra recibe una radiación total que es proporcional a su sección circunferencial y se distribuye por toda su superficie esférica. Por lo tanto, el promedio de radiación solar entrante por unidad de área (en la parte superior de la atmósfera) es de <a href="https://www.codecogs.com/eqnedit.php?latex=$&space;S_0&space;/&space;4&space;$" target="_blank"><img src="https://latex.codecogs.com/gif.latex?$&space;S_0&space;/&space;4&space;$" title="$ S_0 / 4 $" /></a>. Considerando el albedo como la fracción <a href="https://www.codecogs.com/eqnedit.php?latex=$&space;\&space;alpha&space;$" target="_blank"><img src="https://latex.codecogs.com/gif.latex?$&space;\alpha&space;$" title="$ \alpha $" /></a> del total de la radiación solar entrante que refleja la Tierra en su conjunto, la energía que absorbe el sistema climático es <a href="https://www.codecogs.com/eqnedit.php?latex=$&space;(1&space;-&space;\alpha)&space;S_0&space;/&space;4&space;$" target="_blank"><img src="https://latex.codecogs.com/gif.latex?$&space;(1&space;-&space;\alpha)&space;S_0&space;/&space;4&space;$" title="$ (1 - \alpha) S_0 / 4 $" /></a>. Pero el sistema climático no retiene el calor indefinidamente. Tiende al equilibrio termodinámico irradiando hacia el espacio la misma cantidad de energía absorbida por el sol. Siguiendo la ley de Stefan-Boltzmann del cuerpo negro, la energía radiada por unidad de área es proporcional a la cuarta potencia de su temperatura. Luego, el equilibrio termodinámico de todo el sistema de la Tierra, calentado a una temperatura de <a href="https://www.codecogs.com/eqnedit.php?latex=$&space;T_E&space;$" target="_blank"><img src="https://latex.codecogs.com/gif.latex?$&space;T_E&space;$" title="$ T_E $" /></a>, se puede expresar como:
 
@@ -158,10 +154,9 @@ En resumen, considerando las ecuaciones 2 y 3, la temperatura de equilibrio de l
 <a href="https://www.codecogs.com/eqnedit.php?latex=T_s&space;=&space;{\left(\cfrac{(1-\alpha)&space;\cdot&space;S_0&space;\&space;}{2&space;\cdot&space;(2-\emph{f})&space;\cdot&space;\sigma&space;\&space;}\right)}&space;^&space;{1/4}" target="_blank"><img src="https://latex.codecogs.com/gif.latex?T_s&space;=&space;{\left(\cfrac{(1-\alpha)&space;\cdot&space;S_0&space;\&space;}{2&space;\cdot&space;(2-\emph{f})&space;\cdot&space;\sigma&space;\&space;}\right)}&space;^&space;{1/4}" title="T_s = {\left(\cfrac{(1-\alpha) \cdot S_0 \ }{2 \cdot (2-\emph{f}) \cdot \sigma \ }\right)} ^ {1/4}" /></a>
 </p>
 
-<br/><br/>
-
 Con respecto a la ecuación 4, la temperatura de la superficie de la Tierra depende del albedo (<a href="https://www.codecogs.com/eqnedit.php?latex=$&space;\alpha&space;$" target="_blank"><img src="https://latex.codecogs.com/gif.latex?$&space;\alpha&space;$" title="$ \alpha $" /></a>) y del efecto invernadero de la atmósfera (<a href="https://www.codecogs.com/eqnedit.php?latex=\emph{f}" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\emph{f}" title="\emph{f}" /></a>), que es proporcional a la concentración de GEI en la atmósfera. Esta dependencia se produce de tal manera que cuanto menor sea el albedo y mayor sea el efecto invernadero, mayor será la temperatura y viceversa. 
 
+<br/><br/>
 
 <h2>Forzamiento Radiativo</h2>
 
