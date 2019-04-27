@@ -113,7 +113,9 @@ El sistema climático es termodinámico alimentado por la energía de la radiaci
 
 Siendo <a href="https://www.codecogs.com/eqnedit.php?latex=$&space;S_0&space;$" target="_blank"><img src="https://latex.codecogs.com/gif.latex?$&space;S_0&space;$" title="$ S_0 $" /></a> la energía solar radiativa por unidad de área perpendicular a la dirección de la radiación solar, la Tierra recibe una radiación total que es proporcional a su sección circunferencial y se distribuye por toda su superficie esférica. Por lo tanto, el promedio de radiación solar entrante por unidad de área (en la parte superior de la atmósfera) es de <a href="https://www.codecogs.com/eqnedit.php?latex=$&space;S_0&space;/&space;4&space;$" target="_blank"><img src="https://latex.codecogs.com/gif.latex?$&space;S_0&space;/&space;4&space;$" title="$ S_0 / 4 $" /></a>. Considerando el albedo como la fracción <a href="https://www.codecogs.com/eqnedit.php?latex=$&space;\&space;alpha&space;$" target="_blank"><img src="https://latex.codecogs.com/gif.latex?$&space;\&space;alpha&space;$" title="$ \ alpha $" /></a> del total de la radiación solar entrante que refleja la Tierra en su conjunto, la energía que absorbe el sistema climático es <a href="https://www.codecogs.com/eqnedit.php?latex=$&space;(1&space;-&space;\&space;alpha)&space;S_0&space;/&space;4&space;$" target="_blank"><img src="https://latex.codecogs.com/gif.latex?$&space;(1&space;-&space;\&space;alpha)&space;S_0&space;/&space;4&space;$" title="$ (1 - \ alpha) S_0 / 4 $" /></a>. Pero el sistema climático no retiene el calor indefinidamente. Tiende al equilibrio termodinámico irradiando hacia el espacio la misma cantidad de energía absorbida por el sol. Siguiendo la ley de Stefan-Boltzmann del cuerpo negro, la energía radiada por unidad de área es proporcional a la cuarta potencia de su temperatura. Luego, el equilibrio termodinámico de todo el sistema de la Tierra, calentado a una temperatura de <a href="https://www.codecogs.com/eqnedit.php?latex=$&space;T_E&space;$" target="_blank"><img src="https://latex.codecogs.com/gif.latex?$&space;T_E&space;$" title="$ T_E $" /></a>, se puede expresar como:
 
+<p align="center"> 
 <a href="https://www.codecogs.com/eqnedit.php?latex=\sigma&space;\cdot&space;T_E^4&space;=&space;\cfrac{(1-\alpha)&space;\&space;}{4&space;\&space;}&space;\cdot&space;S_0," target="_blank"><img src="https://latex.codecogs.com/gif.latex?\sigma&space;\cdot&space;T_E^4&space;=&space;\cfrac{(1-\alpha)&space;\&space;}{4&space;\&space;}&space;\cdot&space;S_0," title="\sigma \cdot T_E^4 = \cfrac{(1-\alpha) \ }{4 \ } \cdot S_0," /></a>
+</p>
 
 <img src="/assets/images/research/FIG1-GHG.png"
      alt="alker"
@@ -127,20 +129,24 @@ Siendo <a href="https://www.codecogs.com/eqnedit.php?latex=$&space;S_0&space;$" 
 
 Ahora, consideremos la atmósfera como un cuerpo gris que absorbe una fracción <a href="https://www.codecogs.com/eqnedit.php?latex=\emph{f}" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\emph{f}" title="\emph{f}" /></a> de la radiación de onda larga de la superficie de la Tierra, que se encuentra a una temperatura de <a href="https://www.codecogs.com/eqnedit.php?latex=$&space;T_s&space;$" target="_blank"><img src="https://latex.codecogs.com/gif.latex?$&space;T_s&space;$" title="$ T_s $" /></a>, debido al efecto invernadero. Luego, esta energía se emite hacia arriba (hacia el espacio) y hacia abajo (hacia la superficie) en la misma proporción cuando la atmósfera se calienta a una temperatura de <a href="https://www.codecogs.com/eqnedit.php?latex=$&space;T_a&space;$" target="_blank"><img src="https://latex.codecogs.com/gif.latex?$&space;T_a&space;$" title="$ T_a $" /></a> . Entonces, el equilibrio térmico de la atmósfera se puede describir como:
 
-
+<p align="center"> 
 <a href="https://www.codecogs.com/eqnedit.php?latex=\emph{f}&space;\cdot&space;\sigma&space;\cdot&space;T_s^4&space;=&space;2&space;\cdot&space;\emph{f}&space;\cdot&space;\sigma&space;\cdot&space;T_a^4" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\emph{f}&space;\cdot&space;\sigma&space;\cdot&space;T_s^4&space;=&space;2&space;\cdot&space;\emph{f}&space;\cdot&space;\sigma&space;\cdot&space;T_a^4" title="\emph{f} \cdot \sigma \cdot T_s^4 = 2 \cdot \emph{f} \cdot \sigma \cdot T_a^4" /></a>
-
+</p>
 
 
 A su vez, el equilibrio termodinámico del sistema climático de la Tierra (diferenciación entre la atmósfera y la superficie) en la parte superior de la atmósfera se puede expresar como:
 
+<p align="center"> 
 <a href="https://www.codecogs.com/eqnedit.php?latex=\cfrac{(1-\alpha)&space;\&space;}{4&space;\&space;}&space;\cdot&space;S_0&space;=&space;(1-\emph{f})&space;\cdot&space;\sigma&space;\cdot&space;T_s^4&space;&plus;&space;\emph{f}&space;\cdot&space;\sigma&space;\cdot&space;T_a^4" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\cfrac{(1-\alpha)&space;\&space;}{4&space;\&space;}&space;\cdot&space;S_0&space;=&space;(1-\emph{f})&space;\cdot&space;\sigma&space;\cdot&space;T_s^4&space;&plus;&space;\emph{f}&space;\cdot&space;\sigma&space;\cdot&space;T_a^4" title="\cfrac{(1-\alpha) \ }{4 \ } \cdot S_0 = (1-\emph{f}) \cdot \sigma \cdot T_s^4 + \emph{f} \cdot \sigma \cdot T_a^4" /></a>
+</p>
 
 donde el primer término del lado derecho de la ecuación es la radiación de onda larga saliente de la superficie de la Tierra que no es absorbida por la atmósfera y el segundo término es la radiación emitida por la atmósfera (Figura) . 
 
 En resumen, considerando las ecuaciones 2 y 3, la temperatura de equilibrio de la superficie de la Tierra se puede estimar mediante la siguiente expresión:
 
+<p align="center"> 
 <a href="https://www.codecogs.com/eqnedit.php?latex=T_s&space;=&space;{\left(\cfrac{(1-\alpha)&space;\cdot&space;S_0&space;\&space;}{2&space;\cdot&space;(2-\emph{f})&space;\cdot&space;\sigma&space;\&space;}\right)}&space;^&space;{1/4}" target="_blank"><img src="https://latex.codecogs.com/gif.latex?T_s&space;=&space;{\left(\cfrac{(1-\alpha)&space;\cdot&space;S_0&space;\&space;}{2&space;\cdot&space;(2-\emph{f})&space;\cdot&space;\sigma&space;\&space;}\right)}&space;^&space;{1/4}" title="T_s = {\left(\cfrac{(1-\alpha) \cdot S_0 \ }{2 \cdot (2-\emph{f}) \cdot \sigma \ }\right)} ^ {1/4}" /></a>
+</p>
 
 <br/><br/>
 
