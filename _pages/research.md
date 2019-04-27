@@ -82,13 +82,13 @@ Los diferentes componentes del clima responden a los cambios en diferentes escal
 
 En general, la cantidad de variabilidad en diferentes frecuencias se mide por la potencia espectral de una serie de temporal, por ejemplo, SST de los últimos 200 años en el Atlántico Norte. Desafortunadamente, no existe una serie existente de mediciones directas que incluya períodos desde horas hasta miles de años. La figura presentada muestra un espectro "hipotético" del sistema climático computado a partir de un conjunto de espectros de diferentes series de tiempo calculadas inicialmente por Mitchell et al. 1976. La izquierda de la figura corresponde a períodos más largos obtenidos de registros paleoclimáticos: sedimentos marinos, núcleos de hielo, anillos de árboles o registros de coral. A medida que el período disminuye, aparecen picos de variabilidad en el rango de variabilidad decadal a multidecadal. Parte de esta variabilidad está relacionada con el clima del Atlántico norte, en particular con la Variabilitdad multidecdal del Atlántico. Se caracteriza por cambios en la TSM del Atlántico Norte en escalas de tiempo de 20 y 50-70 años. También otros modos de variabilidad contribuyen a estas escalas de tiempo:  Norte una variabilidad océano-atmósfera con un patrón de aguas superficiales cálidas o frías en el Océano Pacífico al norte de 20 (Biondi en al 2001} o  fluctuaciones de la diferencia de presión atmosférica a nivel del mar (SLP) entre el bajo islandés y el alto de las Azores que controlan la fuerza y la dirección de los vientos del oeste y la ubicación de las pistas de tormentas en el Atlántico Norte (Hurrell et al. 2003).
 
-
+<p align="center"> 
 <img src="/assets/images/research/Spectrum.png"
      alt="alker"
      width="400" 
      description="Compuesto del espectro de la variedad climática del planeta tomado de Ghil et al. 2002 durante el último millón de años Myr. Figura adaptada de Mitchell et al. 1976."
      style="float: left; margin-right: 10px;" />
-
+</p> 
 
 Reduciendo aún más el período que tenemos escalas de tiempo interanuales con El Niño / Oscilación del Sur (ENOS) como uno de los principales impulsores de estas escalas de tiempo. Si Reducimos las escalas a años y días (ambos picos afilados a la derecha de la figura). Las protuberancias más pequeñas a la derecha de la figura se asocian con la variabilidad de los sistemas climáticos en la variabilidad intraestacional entre 1 y 3 meses y rangos de 3 a 7 días. El componente dominante de las escalas de tiempo intraestacionales es la Oscilación Madden-Julian, un acoplamiento entre los patrones a gran escala en la circulación atmosférica y la convección profunda (Zhanget al. 2005). Se observa principalmente en el océano Índico y el Pacífico, y consiste en grandes regiones de lluvias tropicales mejoradas y suprimidas que se desplazan hacia el este.
 
@@ -117,12 +117,13 @@ Siendo <a href="https://www.codecogs.com/eqnedit.php?latex=$&space;S_0&space;$" 
 <a href="https://www.codecogs.com/eqnedit.php?latex=\sigma&space;\cdot&space;T_E^4&space;=&space;\cfrac{(1-\alpha)&space;\&space;}{4&space;\&space;}&space;\cdot&space;S_0," target="_blank"><img src="https://latex.codecogs.com/gif.latex?\sigma&space;\cdot&space;T_E^4&space;=&space;\cfrac{(1-\alpha)&space;\&space;}{4&space;\&space;}&space;\cdot&space;S_0," title="\sigma \cdot T_E^4 = \cfrac{(1-\alpha) \ }{4 \ } \cdot S_0," /></a>
 </p>
 
+<p align="center"> 
 <img src="/assets/images/research/FIG1-GHG.png"
      alt="alker"
-     width="600"
+     width="300"
      description="Representación esquemática del efecto invernadero. Las flechas amarillas representan la radiación solar de onda corta, con la energía solar total por unidad de área que el sistema climático refleja y absorbe expresada. Las flechas rojas representan la radiación de onda larga saliente del sistema climático por unidad de área emitida por la superficie de la Tierra a la atmósfera y a través de ella y la emitida por la atmósfera hacia arriba y hacia abajo. El significado de los términos de las expresiones se explica en el texto.."
      style="float: left; margin-right: 10px;" />
-
+</p> 
 <br/><br/>
 
 
@@ -171,10 +172,12 @@ Los aerosoles son pequeñas partículas líquidas o sólidas suspendidas en el a
 Resumiendo, el sistema climático recibe energía del Sol y mantiene un equilibrio termodinámico. A su vez, la irradiancia solar entrante puede variar según el forzamiento radiativo que induce cambios en el sistema climático. Luego, debido a la curvatura de la Tierra y debido a que la reflectividad de la radiación solar no es globalmente homogénea (por ejemplo, la capa de hielo y nieve o la arena del desierto del Sahara tienen un albedo muy alto), la superficie no se calienta por igual en todo el mundo. Estas diferencias regionales de calor son clave para generar la dinámica del sistema climático, que distribuye la energía para aproximarse al equilibrio termodinámico global. A continuación, se presentan algunos conceptos básicos de los sistemas atmosféricos y oceánicos (para obtener información más detallada, consulte [grupo intergubernamental de expertos sobre el cambio climático](https://www.ipcc.ch/site/assets/uploads/2018/02/SYR_AR5_FINAL_full_es.pdf)).
 
 <figure>
+<p align="center"> 
 <img src="/assets/images/research/TOA-Insolation-march-2003.png"
      alt="alker"
-     width="600"
+     width="400"
      description="La insolación antes de interactuar con la atmósfera promediada en marzo de 2003 del satélite CERES de la NASA. Tomado de e-education.psu.edu."
      style="float: left; margin-right: 10px;" />
 <figcaption>La insolación antes de interactuar con la atmósfera promediada en marzo de 2003 del satélite CERES de la NASA. Tomado de e-education.psu.edu. Como podemos ver en el gráfico la zona ecuatorial es la que recibe mas radiación solar. A medida que nos desplazamos hacia los polos, estos reciben menos radiación solar generando un imbalance de la radiación llegada por el sol. </figcaption>
+</p> 
 </figure>
