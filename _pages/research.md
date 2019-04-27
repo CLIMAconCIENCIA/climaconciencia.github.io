@@ -137,10 +137,6 @@ Siendo <a href="https://www.codecogs.com/eqnedit.php?latex=$&space;S_0&space;$" 
 <a href="https://www.codecogs.com/eqnedit.php?latex=\sigma&space;\cdot&space;T_E^4&space;=&space;\cfrac{(1-\alpha)&space;\&space;}{4&space;\&space;}&space;\cdot&space;S_0," target="_blank"><img src="https://latex.codecogs.com/gif.latex?\sigma&space;\cdot&space;T_E^4&space;=&space;\cfrac{(1-\alpha)&space;\&space;}{4&space;\&space;}&space;\cdot&space;S_0," title="\sigma \cdot T_E^4 = \cfrac{(1-\alpha) \ }{4 \ } \cdot S_0," /></a>
 </p>
 
-<br/><br/>
-
-
-
 Ahora, consideremos la atmósfera como un cuerpo gris que absorbe una fracción <a href="https://www.codecogs.com/eqnedit.php?latex=\emph{f}" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\emph{f}" title="\emph{f}" /></a> de la radiación de onda larga de la superficie de la Tierra, que se encuentra a una temperatura de <a href="https://www.codecogs.com/eqnedit.php?latex=$&space;T_s&space;$" target="_blank"><img src="https://latex.codecogs.com/gif.latex?$&space;T_s&space;$" title="$ T_s $" /></a>, debido al efecto invernadero. Luego, esta energía se emite hacia arriba (hacia el espacio) y hacia abajo (hacia la superficie) en la misma proporción cuando la atmósfera se calienta a una temperatura de <a href="https://www.codecogs.com/eqnedit.php?latex=$&space;T_a&space;$" target="_blank"><img src="https://latex.codecogs.com/gif.latex?$&space;T_a&space;$" title="$ T_a $" /></a> . Entonces, el equilibrio térmico de la atmósfera se puede describir como:
 
 <p align="center"> 
