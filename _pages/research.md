@@ -87,7 +87,7 @@ En general, la cantidad de variabilidad en diferentes frecuencias se mide por la
 <p align="center"> 
 <img src="/assets/images/research/Spectrum.png"
      alt="alker"
-     width="600" /></p> 
+     width="500" /></p> 
 <figure><figcaption>  Compuesto del espectro de la variedad climática del planeta tomado de Ghil et al. 2002 durante el último millón de años Myr. Figura adaptada de Mitchell et al. 1976.
 </figcaption>   
 </figure>  
