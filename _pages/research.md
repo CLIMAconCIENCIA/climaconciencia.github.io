@@ -122,11 +122,12 @@ El sistema climático es termodinámico alimentado por la energía de la radiaci
      alt="alker"
      width="300"
      description=""
-     style="float: left; margin-right: 10px;" />
+     style="float: margin-right: 10px;" />
+</p> 
 <figcaption> Representación esquemática del efecto invernadero. Las flechas amarillas representan la radiación solar de onda corta, con la energía solar total por unidad de área que el sistema climático refleja y absorbe expresada. Las flechas rojas representan la radiación de onda larga saliente del sistema climático por unidad de área emitida por la superficie de la Tierra a la atmósfera y a través de ella y la emitida por la atmósfera hacia arriba y hacia abajo. El significado de los términos de las expresiones se explica en el texto.
 </figcaption>   
 </figure>  
-</p> 
+
 
 <br/><br/>
 
@@ -181,14 +182,15 @@ Los aerosoles son pequeñas partículas líquidas o sólidas suspendidas en el a
 
 Resumiendo, el sistema climático recibe energía del Sol y mantiene un equilibrio termodinámico. A su vez, la irradiancia solar entrante puede variar según el forzamiento radiativo que induce cambios en el sistema climático. Luego, debido a la curvatura de la Tierra y debido a que la reflectividad de la radiación solar no es globalmente homogénea (por ejemplo, la capa de hielo y nieve o la arena del desierto del Sahara tienen un albedo muy alto), la superficie no se calienta por igual en todo el mundo. Estas diferencias regionales de calor son clave para generar la dinámica del sistema climático, que distribuye la energía para aproximarse al equilibrio termodinámico global. A continuación, se presentan algunos conceptos básicos de los sistemas atmosféricos y oceánicos (para obtener información más detallada, consulte [grupo intergubernamental de expertos sobre el cambio climático](https://www.ipcc.ch/site/assets/uploads/2018/02/SYR_AR5_FINAL_full_es.pdf)).
 
-<p align="center"> 
-<figure>
 
+<figure>
+<p align="center"> 
 <img src="/assets/images/research/TOA-Insolation-march-2003.png"
      alt="alker"
      width="400"
      description="La insolación antes de interactuar con la atmósfera promediada en marzo de 2003 del satélite CERES de la NASA. Tomado de e-education.psu.edu."
      style="float: left; margin-right: 10px;" />
+</p> 
 <figcaption>La insolación antes de interactuar con la atmósfera promediada en marzo de 2003 del satélite CERES de la NASA. Tomado de e-education.psu.edu. Como podemos ver en el gráfico la zona ecuatorial es la que recibe mas radiación solar. A medida que nos desplazamos hacia los polos, estos reciben menos radiación solar generando un imbalance de la radiación llegada por el sol. </figcaption>
 </figure>
-</p> 
+
