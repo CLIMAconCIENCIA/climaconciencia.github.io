@@ -14,7 +14,7 @@ Somos un colectivo de científicos en el campo de ciencias climáticas.
 
 <h2>Elena Ceballos Romero</h2> 
 
-<img src="/assets/images/Victor.jpg"
+<img src="/assets/images/Elena_adult.jpg"
      alt="Elena"
      width="400"
      style="float: left; margin-right: 10px;" />
