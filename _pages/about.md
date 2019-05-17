@@ -5,7 +5,7 @@ title: "Sobre nosotros"
 excerpt: "Información sobre el equipo de CLIMAconCIENCIA"
 author_profile: true 
 classes: wide
-gallery1:
+gallery1:t
   - url: /assets/images/Victor.jpg
     image_path: /assets/images/Victor.jpg
     alt: "Victor"
@@ -15,6 +15,18 @@ gallery1:
 
 Somos un colectivo de científicos en el campo de ciencias climáticas. 
 
+
+
+<h2>Elena Ceballos Romero</h2> 
+
+<img src="/assets/images/Victor.jpg"
+     alt="Elena"
+     width="400"
+     style="float: left; margin-right: 10px;" />
+
+Me llamo Elena Ceballos Romero, soy licenciada en Física y Doctora en Física Aplicada por la Universidad de Servilla, en la rama de Física Nuclear. Mi línea de investigación versa sobre es el estudio del ciclo del carbono oceánico. Los océanos juegan un papel clave en el ciclo global del carbono, siendo uno de los mayores sumideros de CO2 atmosférico. Me dedico al estudio del exporte y secuestro de carbono por parte de los océanos a través del mecanismo llamado bomba biológica de carbono (BCP por sus siglas en inglés) mediante el uso de pares radioactivos. Específicamente utilizo los pares 234Th-238U y 210Po-210Pb, los cuales resultan muy útiles como trazadores indirectos del flujo de carbono orgánico desde las superficie oceánica a aguas profundas por sus afinidades con las partículas y sus constantes de desintegración. Mi enfoque combina medidas experimentales y simulaciones de dinámica de partículas y arrastre de estos radioisótopos en el océano con el fin de mejorar la descripción cualitativa y cuantitativa del flujo carbono y la eficiencia de exporte de la BCP. He realizado estancias de investigación y participado en campañas oceanográficas en diferentes partes del mundo. Actualmente soy Personal Docente e Investigador de la [Universidad de Sevilla](http://www.us.es/). Tengo la curiosidad como motor de vida y creo en el uso de la ciencia para contribuir a la construcción de un mundo mejor. [@eleceballos](https://twitter.com/eleceballos)
+
+
 <h2>Cristian Florindo Lopez</h2> 
 
 <img src="/assets/images/Cristian.png"
@@ -23,6 +35,7 @@ Somos un colectivo de científicos en el campo de ciencias climáticas.
      style="float: left; margin-right: 10px;" />
      
 Soy Cristian Florindo Lopez, licenciado en Ciencias del Mar y doctor en Oceanografía por la Universidad de Southampton (Reino Unido). Mi campo de estudio engloba las regiones polares. En específico, la circulación de aguas de baja salinidad provenientes del Ártico y Groenlandia, y como éstas influyen en el clima. Actualmente trabajo como investigador en el [National Oceanography Centre, Southampton](https://www.noc.ac.uk) a la par que soy consultor de inteligencia artificial y machine learning para la empresa LV8sports. Mis intereses incluyen la investigación en cambio climático combinada con técnicas avanzadas de aprendizaje automático.  [@physicalocean](https://twitter.com/physicalocean)
+
 
 
 <h2>Victor Estella Perez</h2> 
