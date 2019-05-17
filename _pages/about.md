@@ -5,7 +5,7 @@ title: "Sobre nosotros"
 excerpt: "Información sobre el equipo de CLIMAconCIENCIA"
 author_profile: true 
 classes: wide
-gallery1:t
+gallery1:
   - url: /assets/images/Victor.jpg
     image_path: /assets/images/Victor.jpg
     alt: "Victor"
